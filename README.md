@@ -1,146 +1,112 @@
-# ERAY YUZTYURK, BSc.
-Data Engineer | Machine Learning & AI Developer
+# Hi, I'm Eray Yuztyurk, BSc.
 
-Hi — I'm Eray. I build data-first solutions that turn messy information into reliable products: ETL and data pipelines, ML models and APIs, and interactive dashboards. I combine practical engineering with applied machine learning to deliver tools that teams can use in production and decision-making.
+Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
 
-Contact
-- LinkedIn: https://linkedin.com/in/eray-yuztyurk
+I like working on clean, structured solutions: **Python, SQL, ML models, cloud workflows, intelligent tools, and apps that help people make better decisions.**
 
-About me — short
-I trained in Business Administration (University of Vienna) with a focus on IT systems and data analysis. Since then I have focused on data engineering tasks, ML model development and deployment, and building analytics apps and dashboards. I enjoy turning data workflows into robust, well-documented pipelines and shipping models that actually solve business problems.
+---
 
-Core title suggestion
-- Primary: Data Engineer
-- Expanded (based on my repos and projects): Data Engineer | Machine Learning & AI Developer
-This reflects my work across pipelines, ETL/automation, and ML model development & deployment.
+## 🚀 What I Do
 
-What I do (high level)
-- Design and implement data ingestion and preprocessing pipelines.
-- Build and evaluate ML models (classification, regression, clustering).
-- Wrap models into simple, maintainable APIs (Flask) and ship dashboards (Power BI).
-- Automate repetitive reporting and data extraction tasks.
-- Produce reproducible projects with clear READMEs and demos.
+* Develop **AI-powered applications** with Python, Flask, and HuggingFace
+* Build **SQL/ETL pipelines** and data transformation layers
+* Create **ML models** for classification, regression, clustering & recommendation
+* Design **dashboards and analytics tools** that make insights accessible
+* Automate workflows to improve efficiency in real-world settings
+* Explore cloud and scalable architectures (AWS, containerization)
 
-Key skills
-- Languages & tools: Python, SQL, Bash, JavaScript (basic)
-- ML & libraries: scikit-learn, TensorFlow, Keras, Hugging Face (experience)
-- Data & tooling: pandas, NumPy, ETL patterns, Docker basics
-- BI & viz: Power BI, Matplotlib / seaborn / Plotly
-- Cloud & infra: AWS concepts (AWS Certified Cloud Practitioner), deployment on Heroku/Render/Vercel
-- Processes: CI basics, reproducible notebooks, model evaluation and tracking
-- Soft skills: problem solving, curiosity, clear communication, teamwork, attention to detail
+---
 
-Certifications
-- 02/2025 — AWS Certified Cloud Practitioner (AWS)
-- 08/2024 — Machine Learning Professional Certificate (IBM)
-- 04/2024 — Data Science Professional Certificate (IBM)
-- 03/2024 — Data Science Math Skills (Duke University)
-- 01/2024 — Data Scientist Bootcamp (Miuul)
+## 🧩 Selected Projects (Showcase)
 
-Education
-- 05/2015 — Bachelor's Degree in Business Administration, University of Vienna
-  Focus: IT Systems & Data Analysis in Supply-Chain Management
+These projects best reflect how I think, build, and learn.
 
-Selected projects (short descriptions + repos)
-- cocktailMe App — personalized cocktail recommendation web app (Flask).  
-  Repo: https://github.com/eray-yuztyurk/cocktailme-app  
-  Notes: Recommendation logic + simple UI; good demo candidate.
+### **AI & Machine Learning**
 
-- Power BI — Bank Performance Dashboard — interactive business intelligence dashboard.  
-  Repo: https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard
+* **Python AI Chatbot (HuggingFace + Flask)** – Multi-model local chatbot
+  [https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface](https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface) — ⭐1
+* **AI Chatbot Web App**
+  [https://github.com/eray-yuztyurk/python-ai-chatbot-web-app](https://github.com/eray-yuztyurk/python-ai-chatbot-web-app)
+* **Voice Assistant (AI + STT/TTS + Flask)**
+  [https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot](https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot)
+* **Image Captioning with BLIP**
+  [https://github.com/eray-yuztyurk/python-ai-image-captioning](https://github.com/eray-yuztyurk/python-ai-image-captioning) — ⭐1
+* **Movie Recommenders (Collaborative & Content-based)**
+  [https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender](https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender) — ⭐1
+  [https://github.com/eray-yuztyurk/content-based-movie-recommender](https://github.com/eray-yuztyurk/content-based-movie-recommender) — ⭐1
 
-- Python Flask Transaction Tracker — REST API + small frontend for tracking transactions.  
-  Repo: https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project
+### **Data Science & ML Competitions**
 
-- AI Chatbot (Hugging Face) — experiments with transformer models for conversational tasks.  
-  Repo: https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface
+* **Kaggle Titanic Competition** – Full workflow
+  [https://github.com/eray-yuztyurk/kaggle-titanic-competition](https://github.com/eray-yuztyurk/kaggle-titanic-competition) — ⭐1
+* **Diabetes Prediction ML**
+  [https://github.com/eray-yuztyurk/diabetes-prediction-ml](https://github.com/eray-yuztyurk/diabetes-prediction-ml) — ⭐1
+* **House Price Prediction**
+  [https://github.com/eray-yuztyurk/house-price-prediction-competition](https://github.com/eray-yuztyurk/house-price-prediction-competition) — ⭐1
+* **IBM SpaceX Launch Analysis**
+  [https://github.com/eray-yuztyurk/ibm-spacex-project](https://github.com/eray-yuztyurk/ibm-spacex-project) — ⭐1
 
-- Image projects & classifiers (Clothing Classifier, Image Captioning) — CNN-based projects and captioning experiments.  
-  Repos: https://github.com/eray-yuztyurk/python-ai-image-captioning and others
+### **Recommender Systems**
 
-- Recommender systems — collaborative & content-based recommenders, ARL-based product recommender.  
-  Repos: 
-  - Collaborative: https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender  
-  - Content-based: https://github.com/eray-yuztyurk/content-based-movie-recommender  
-  - ARL product recommender: https://github.com/eray-yuztyurk/arl-product-recommender
+* **CocktailMe – Personalized Cocktail Recommender**
+  [https://github.com/eray-yuztyurk/cocktailme-app](https://github.com/eray-yuztyurk/cocktailme-app) — ⭐2
+  [https://github.com/eray-yuztyurk/CocktailMe](https://github.com/eray-yuztyurk/CocktailMe) — ⭐1
+* **ARL Product Recommender**
+  [https://github.com/eray-yuztyurk/arl-product-recommender](https://github.com/eray-yuztyurk/arl-product-recommender) — ⭐1
 
-- Kaggle & competition work (Titanic, House Price, Diabetes prediction) — reproducible notebooks and baseline models.  
-  Repos: 
-  - Titanic: https://github.com/eray-yuztyurk/kaggle-titanic-competition  
-  - House price: https://github.com/eray-yuztyurk/house-price-prediction-competition  
-  - Diabetes prediction: https://github.com/eray-yuztyurk/diabetes-prediction-ml
+### **Web Apps & Backend**
 
-- Automation & data tooling (Customer Data Access Wizard, CA Spreadsheet Enhancer, Bloomberg Data Reporter) — ETL, reporting automation and tooling for business users.  
-  (Private / internal or older repos; mention if you want them listed publicly.)
+* **Python Flask Transaction Tracker – CRUD**
+  [https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project](https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project) — ⭐1
+* **Flask Examples & Experiments**
+  [https://github.com/eray-yuztyurk/python-flask-examples](https://github.com/eray-yuztyurk/python-flask-examples) — ⭐1
 
-Project timeline (high-level)
-- 06/2024 – 07/2024 — Clothing Classifier (CNN, image classification)
-- 02/2024 – 03/2024 — SpaceX Launch Analysis (data analysis & ML)
-- 11/2023 – 01/2024 — cocktailMe App (recommendation app)
-- 10/2023 – 11/2023 — Smart Basket Recommender (ARL-based)
-- 06/2022 – 08/2023 — Customer Data Access Wizard (ETL/reporting)
-- 01/2020 – 02/2023 — CA Spreadsheet Enhancer (automation)
-- 06/2018 – 06/2022 — Bloomberg Data Reporter (automated data queries and reports)
-- 10/2016 – 09/2021 — Data Management Tools (data cleaning and reporting utilities)
+### **Dashboards & Analytics**
 
-How to review my work (quick guide for recruiters / reviewers)
-1. Look at the pinned repos on my profile — they contain a short demo and the most polished examples.  
-2. Open the README of the repo(s) that interest you: I include a short project summary, how-to-run, and results/metrics when applicable.  
-3. Try the live demo links (if present) or run the repo locally using the "How to run" instructions.  
-4. If you want more, ask for the project-specific notebook or architecture notes — I can share a short technical write-up.
+* **Power BI – Bank Financial Performance Dashboard**
+  [https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard](https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard) — ⭐2
 
-Typical repo README checklist I follow (so you know what to expect)
-- One-line summary
-- Short problem statement
-- Tech stack and requirements
-- Quick setup (local + Docker if available)
-- Example run & expected output / demo link
-- Results (metrics) and short discussion
-- License and contribution notes
+### **Frontend & Portfolio**
 
-Motivation / cover note (English, from my perspective)
-I am writing to express my interest in roles where I can apply my skills in data engineering and AI development. I have hands-on experience in data science, machine learning and automation, and I enjoy building practical solutions that enable data-driven decisions. My background with Python, SQL, TensorFlow, and Keras — combined with cloud knowledge and automation experience — allows me to develop, train and deploy models that add measurable value. I have automated data workflows, integrated advanced analytics into business processes, and built tools for extraction, preprocessing and transformation. I also develop dashboards and evaluation frameworks so stakeholders can understand and act on model outputs. I am motivated to bring this experience into an AI-focused role and contribute to building reliable, maintainable systems.
+* **Static Portfolio Website**
+  [https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project](https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project) — ⭐1
+* **Meainow Website (HTML/CSS)**
+  [https://github.com/eray-yuztyurk/meainow-website](https://github.com/eray-yuztyurk/meainow-website)
 
-Resume highlights (short)
-- Technical certifications: IBM Data Science, IBM Machine Learning, AWS Cloud Practitioner
-- Strong foundation in statistics, linear algebra and applied ML (Duke / Bootcamp)
-- Multiple end-to-end projects: data pipelines → model → API → dashboard
-- Languages: English (fluent), German (fluent), Turkish (native), Italian (basic)
+---
 
-Languages
-- English — fluent
-- German — fluent
-- Turkish — native
-- Italian — basic
+## 🎓 Education & Certifications
 
-Repository hygiene / next improvements I'm working on
-- Add clear pinned projects and one-line taglines for each.
-- Add LICENSE to primary repos (MIT/Apache-2.0).
-- Add small CI (lint/tests) to core repos.
-- Deploy 2–3 projects with live demos and add GIF screenshots to READMEs.
-- Add short architecture notes to the two most important projects.
+* **AWS Certified Cloud Practitioner (2025)**
+* **IBM Machine Learning Professional Certificate (2024)**
+* **IBM Data Science Professional Certificate (2024)**
+* **Duke University – Data Science Math Skills (2024)**
+* **Miuul Data Scientist Bootcamp (2024)**
+* **BSc. Business Administration, University of Vienna**
+  *Focus: IT systems & data analysis in supply chain workflows*
 
-Suggested repos to pin (my recommendation)
-- cocktailme-app — interactive recommendation app (Flask)
-- power-bi-bank-performance-report-dashboard — BI dashboard
-- python-flask-transaction-tracker-project — API + UI example
-- collaborative-filtering-movie-recommender — data science / recommender example
+---
 
-How you can use this README
-- Create a new public repository with the exact name of your GitHub username (eray-yuztyurk) and add this README.md as the repository README — GitHub will show it on your profile.
-- Replace placeholders (email, LinkedIn, portfolio) and check links to the repos above.
-- Add an `assets/` folder with a profile cover or screenshots to make the page visually stronger.
+## 🛠️ Skills
 
-What I prepared for you now and what I can do next
-- I prepared a full, ready-to-use English profile README that reads like you wrote it (first-person, concise, practical).  
-- Next I can:
-  - Generate the actual repo README files for the 4 suggested pinned projects (one each), including a "how to run" and a short demo GIF placeholder.
-  - Produce a short, English cover letter tailored to a specific job posting (if you share the job description).
-  - Create CI / simple Dockerfile templates for 1 repo you pick.
+**Programming:** Python, SQL
+**ML/AI:** TensorFlow, Keras, Scikit-Learn, HuggingFace Transformers
+**Data:** ETL pipelines, dbt, data modeling, cloud workflows
+**Web:** Flask
+**Visualization:** Power BI, Streamlit
+**Tools:** Git, Docker, VS Code
+**Languages:** English (fluent), German (fluent), Turkish (native), Italian (basic)
 
-Would you like me to:
-- (A) Prepare the 4 project README drafts next, or
-- (B) Produce a tailored cover letter for a job posting, or
-- (C) Create the profile repo contents and a visual assets pack (you supply images)?
+---
 
-Tell me which option and I’ll start immediately.
+## ✨ A Bit About Me
+
+I enjoy learning new technologies, exploring how systems work, and building things that feel useful and clean. I'm motivated by structure, problem-solving, and creating solutions that combine data, software, and AI. Always improving, always experimenting — one project at a time.
+
+---
+
+## 📫 Get in Touch
+
+* GitHub: **@eray-yuztyurk**
+* LinkedIn: *(add link)*
+* Email: *(optional)*
