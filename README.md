@@ -1,18 +1,16 @@
 # Hi, I'm Eray Yuztyurk, BSc.
 
-<p style="text-align: center;">
+<table align="center">
+<tr>
+<td>
   <img 
     src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf"
-    alt="Image"
-    style="
-      max-width: 45%; 
-      height: auto; 
-      border: 2px solid #ccc; 
-      border-radius: 12px;
-      padding: 4px;
-    "
+    width="400"
+    style="border-radius: 12px; border: 2px solid #ccc;"
   />
-</p>
+</td>
+</tr>
+</table>
 
 ![AWS Certified Cloud Practitioner]([https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93])
 ![IBM Data Science Professional Certificate]([https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4])
