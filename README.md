@@ -1,9 +1,9 @@
 # Hi, I'm Eray Yuztyurk 👋
+🧠 Data & AI • 🛠️ Engineering • 📊 Analytics • 🚀 Building useful, clean systems
 
-I build things at the intersection of **data engineering**, **machine learning**, and **AI-driven applications**.  
-I enjoy clean architecture, structured thinking, and turning ideas into tools that genuinely help people make better decisions.
-
-Currently focused on **AI systems**, **ML pipelines**, **Flask-based apps**, and **end-to-end data solutions**.
+I’m someone who learns fast, thinks in systems, and enjoys turning ideas into clean, functional products.
+My work usually sits where data, engineering, and AI meet — whether that’s building ML pipelines, designing recommender systems, or creating intuitive AI-powered applications.
+I care about clarity, structure, and writing software that feels purposeful and maintainable.
 
 ---
 
@@ -73,8 +73,9 @@ These projects best represent how I think, build, and solve problems.
 
 ## ✨ About Me
 
-I enjoy exploring new technologies, understanding how systems work, and building solutions that are both clean and purposeful.  
-Motivated by structure, clarity, and simplifying complex ideas — always improving, one project at a time.
+I like exploring new technologies, understanding how things work, improving them, and building systems that stay reliable as they grow.
+I’m drawn to projects where I can combine data, ML, and software engineering to create something practical and clean.
+Outside of the technical side, I enjoy exploring new ideas, refining my tools, and continuously improving both my workflow and the things I build.
 
 ---
 
@@ -122,7 +123,7 @@ Motivated by structure, clarity, and simplifying complex ideas — always improv
   <tr>
     <th align="left">IBM Machine Learning</th>
     <td>
-      <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/02339aa5-ff1f-4202-a770-7bbf29255c5f" width="90"/>
+      <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/02339aa5-ff1f-4202-a770-7bbf29255c5f" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1"><img src="https://github.com/user-attachments/assets/68fcb1a6-a29a-409c-b4e4-3d40ab5f28b0" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21"><img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88"><img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="90"/></a>
