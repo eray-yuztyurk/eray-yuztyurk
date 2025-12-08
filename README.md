@@ -235,50 +235,70 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
 
 ---
 
+<h2>🎓 Certifications Overview</h2>
 
+<table>
+  <tr>
+    <th align="left">Professional Certifications</th>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93">
+        <img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="50"/>
+      </a>
+      <a href="https://www.credly.com/earner/earned/badge/97743c08-68d4-4183-906b-ec7d118a8c65">
+        <img src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231" width="50"/>
+      </a>
+      <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4">
+        <img src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad" width="50"/>
+      </a>
+      <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93">
+        <img src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030" width="50"/>
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <th align="left">IBM AI Developer – Modules</th>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/8485ae42-c483-4a8d-a0dd-32efe84b3556"><img src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/f4247444-f317-4885-bb59-51de813055a3"><img src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/4c692c63-2e07-45b2-8707-7ad06b5b1abf"><img src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/235cadd6-06d1-410b-af27-722175ab3279"><img src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/5db365e2-564a-432e-b280-cb4681dbf8ff"><img src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e" width="50"/></a>
+    </td>
+  </tr>
 
+  <tr>
+    <th align="left">IBM Machine Learning – Specializations</th>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1"><img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21"><img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88"><img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/b2f6b550-203a-4723-89a9-3a4047a6489d"><img src="https://github.com/user-attachments/assets/71bc1aab-1504-44fc-b51d-745c98baea9a" width="50"/></a>
+    </td>
+  </tr>
 
-## 🎓 Certifications Overview
+  <tr>
+    <th align="left">IBM Data Science – Tracks</th>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/4da49fde-5b35-4cde-b803-ca88027cace1"><img src="https://github.com/user-attachments/assets/5546773a-9918-4ad7-b69c-bdf38240f902" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/3db863c7-a9bd-4a72-a68d-f0b92db2a746"><img src="https://github.com/user-attachments/assets/6ed9c681-35ec-4a73-b632-42ac4a3da7e4" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/30fbe87a-5cc4-490f-a128-b1c03bbe3a0e"><img src="https://github.com/user-attachments/assets/a3a0e2cd-4218-4e79-a48f-3ff03019b14e" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/84a42825-3e85-442a-bd0c-20f68014b8cf"><img src="https://github.com/user-attachments/assets/ad067b69-ac6d-43d1-9edd-aaf14b15b6d0" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/cb6a9161-488e-4fbc-aebb-9d0327eb7dbc"><img src="https://github.com/user-attachments/assets/8befa398-10f0-47e6-af9e-6395dd93a64a" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/57dba98c-b4a1-4510-a86d-ac8a69f2c8b8"><img src="https://github.com/user-attachments/assets/ba6f03eb-0efe-4513-8efa-09a8f0f46e28" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/0b9c165a-ce01-49bf-860e-25fecace626d"><img src="https://github.com/user-attachments/assets/15d55ecf-f356-42c2-a83f-805c4da6b6b2" width="50"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/e04486e9-24f1-477c-9a4c-47665fbe3a59"><img src="https://github.com/user-attachments/assets/d387c84e-ffd1-4f1c-bfde-455d3b4a7e47" width="50"/></a>
+    </td>
+  </tr>
 
-| Category | Badges |
-|---------|--------|
+  <tr>
+    <th align="left">Independent Courses & Bootcamps</th>
+    <td>Python • SQL • Flask • AI/ML • Generative AI Micro-courses</td>
+  </tr>
 
-| **Professional Certifications** | 
-<a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank"><img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/97743c08-68d4-4183-906b-ec7d118a8c65" target="_blank"><img src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank"><img src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank"><img src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030" width="50"/></a>
-|
+</table>
 
-| **IBM AI Developer – Modules** |
-<a href="https://www.credly.com/earner/earned/badge/8485ae42-c483-4a8d-a0dd-32efe84b3556"><img src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/f4247444-f317-4885-bb59-51de813055a3"><img src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/4c692c63-2e07-45b2-8707-7ad06b5b1abf"><img src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/235cadd6-06d1-410b-af27-722175ab3279"><img src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/5db365e2-564a-432e-b280-cb4681dbf8ff"><img src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e" width="50"/></a>
-|
-
-| **IBM Machine Learning – Specializations** |
-<a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1"><img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21"><img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88"><img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/b2f6b550-203a-4723-89a9-3a4047a6489d"><img src="https://github.com/user-attachments/assets/71bc1aab-1504-44fc-b51d-745c98baea9a" width="50"/></a>
-|
-
-| **IBM Data Science – Tracks** |
-<a href="https://www.credly.com/earner/earned/badge/4da49fde-5b35-4cde-b803-ca88027cace1"><img src="https://github.com/user-attachments/assets/5546773a-9918-4ad7-b69c-bdf38240f902" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/3db863c7-a9bd-4a72-a68d-f0b92db2a746"><img src="https://github.com/user-attachments/assets/6ed9c681-35ec-4a73-b632-42ac4a3da7e4" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/30fbe87a-5cc4-490f-a128-b1c03bbe3a0e"><img src="https://github.com/user-attachments/assets/a3a0e2cd-4218-4e79-a48f-3ff03019b14e" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/84a42825-3e85-442a-bd0c-20f68014b8cf"><img src="https://github.com/user-attachments/assets/ad067b69-ac6d-43d1-9edd-aaf14b15b6d0" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/cb6a9161-488e-4fbc-aebb-9d0327eb7dbc"><img src="https://github.com/user-attachments/assets/8befa398-10f0-47e6-af9e-6395dd93a64a" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/57dba98c-b4a1-4510-a86d-ac8a69f2c8b8"><img src="https://github.com/user-attachments/assets/ba6f03eb-0efe-4513-8efa-09a8f0f46e28" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/0b9c165a-ce01-49bf-860e-25fecace626d"><img src="https://github.com/user-attachments/assets/15d55ecf-f356-42c2-a83f-805c4da6b6b2" width="50"/></a>
-<a href="https://www.credly.com/earner/earned/badge/e04486e9-24f1-477c-9a4c-47665fbe3a59"><img src="https://github.com/user-attachments/assets/d387c84e-ffd1-4f1c-bfde-455d3b4a7e47" width="50"/></a>
-|
-
-| **Independent Courses & Bootcamps** | Additional self-paced training in Python, SQL, Flask, AI/ML, and Generative AI. |
 
 -----
 
