@@ -222,12 +222,12 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
         <img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="80"/>
       </a>
       <!--IBM Machine Learning Professional Certificate-->
-      <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad" width="100"/>
+      <a href="https://www.credly.com/earner/earned/badge/1a20d5e6-2976-4368-be66-98d633d2999c" target="_blank">
+        <img src="https://github.com/user-attachments/assets/74d9a6db-ab1a-43b4-98b7-3540f94375e2" width="100"/>
       </a>
       <!--IBM Data Science Professional Certificate-->
-      <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
-        <img src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030" width="100"/>
+      <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
+        <img src="https://github.com/user-attachments/assets/bf6cb5af-30d7-4546-94fb-cb4fa66b158e" width="100"/>
       </a>
     </td>
   </tr>
