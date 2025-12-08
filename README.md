@@ -13,49 +13,54 @@
 </table>
 
 <p align="center">
+  
   <!--AWS Certified Cloud Practitioner-->
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1"
       width="100"
     />
-  <!--IBM Machine Learning Professional Certificate-->
   </a>
-    <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
+  
+  <!--IBM Machine Learning Professional Certificate-->
+  <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad"
       width="100"
     />
-    <!--IBM Machine Learning - Supervised Machine Learning: Regression-->
   </a>
-    <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88" target="_blank">
+
+  <!--IBM Machine Learning - Supervised Machine Learning: Regression-->
+  <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03"
       width="100"
     />
-    <!--IBM Machine Learning - Supervised Machine Learning: Classification-->
   </a>
-    <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21" target="_blank">
+  
+  <!--IBM Machine Learning - Supervised Machine Learning: Classification-->
+  <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3"
       width="100"
     />
-    <!--IBM Machine Learning - Unsupervised Machine Learning-->
   </a>
-    <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+  
+  <!--IBM Machine Learning - Unsupervised Machine Learning-->
+  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
       width="100"
     />
-
+  </a>
   
   <!--IBM Data Science Professional Certificate-->
-  </a>
-    <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030"
       width="100"
     />
+  </a>
 </p>
 
 ---
