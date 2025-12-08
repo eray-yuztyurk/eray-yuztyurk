@@ -13,7 +13,6 @@
 </tr>
 </table>
 -->
----
 
 Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
 
@@ -78,24 +77,8 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
       width="100"
     />
   </a>
-  <!--
-  <!--IBM AI Developer - -->
-  <a href="" target="_blank">
-    <img 
-      src=""
-      width="100"
-    />
-  </a>
 
-  <!--IBM AI Developer - -->
-  <a href="" target="_blank">
-    <img 
-      src=""
-      width="100"
-    />
-  </a>
-
-  <!--IBM AI Developer - -->
+  <!--IBM AI Developer - 
   <a href="" target="_blank">
     <img 
       src=""
@@ -103,6 +86,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     />
   </a>
   -->
+
   <!--AWS Certified Cloud Practitioner-->
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
     <img 
