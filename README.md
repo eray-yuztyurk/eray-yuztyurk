@@ -1,7 +1,17 @@
 # Hi, I'm Eray Yuztyurk, BSc.
 
 <p style="text-align: center;">
-<img width="1051" height="604" alt="Image 5" src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf" />
+  <img 
+    src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf"
+    alt="Image"
+    style="
+      max-width: 45%; 
+      height: auto; 
+      border: 2px solid #ccc; 
+      border-radius: 12px;
+      padding: 4px;
+    "
+  />
 </p>
 
 ![AWS Certified Cloud Practitioner]([https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93])
