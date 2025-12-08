@@ -299,39 +299,39 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <td>
       <!--IBM Data Science - Data Visualization with Python-->
       <a href="https://www.credly.com/earner/earned/badge/4da49fde-5b35-4cde-b803-ca88027cace1">
-        <img src="https://github.com/user-attachments/assets/5546773a-9918-4ad7-b69c-bdf38240f902" width="80"/>
+        <img src="https://github.com/user-attachments/assets/5546773a-9918-4ad7-b69c-bdf38240f902" width="100"/>
       </a>
       <!--IBM Data Science - Data Analysis with Python-->
       <a href="https://www.credly.com/earner/earned/badge/3db863c7-a9bd-4a72-a68d-f0b92db2a746">
-        <img src="https://github.com/user-attachments/assets/6ed9c681-35ec-4a73-b632-42ac4a3da7e4" width="80"/>
+        <img src="https://github.com/user-attachments/assets/6ed9c681-35ec-4a73-b632-42ac4a3da7e4" width="100"/>
       </a>
       <!--IBM Data Science - Databases and SQL for Data Science-->
       <a href="https://www.credly.com/earner/earned/badge/30fbe87a-5cc4-490f-a128-b1c03bbe3a0e">
-        <img src="https://github.com/user-attachments/assets/a3a0e2cd-4218-4e79-a48f-3ff03019b14e" width="80"/>
+        <img src="https://github.com/user-attachments/assets/a3a0e2cd-4218-4e79-a48f-3ff03019b14e" width="100"/>
       </a>
       <!--IBM Data Science - Python Project for Data Science-->
       <a href="https://www.credly.com/earner/earned/badge/84a42825-3e85-442a-bd0c-20f68014b8cf">
-        <img src="https://github.com/user-attachments/assets/7d3e419d-1217-4589-8323-70ce70d5b66a" />
+        <img src="https://github.com/user-attachments/assets/7d3e419d-1217-4589-8323-70ce70d5b66a" width="100"/>
       </a>
       <!--IBM Data Science - Python for Data Science & AI-->
       <a href="https://www.credly.com/earner/earned/badge/cb6a9161-488e-4fbc-aebb-9d0327eb7dbc">
-        <img src="https://github.com/user-attachments/assets/8befa398-10f0-47e6-af9e-6395dd93a64a" width="80"/>
+        <img src="https://github.com/user-attachments/assets/8befa398-10f0-47e6-af9e-6395dd93a64a" width="100"/>
       </a>
       <!--IBM Data Science - Data Science Methodology-->
       <a href="https://www.credly.com/earner/earned/badge/57dba98c-b4a1-4510-a86d-ac8a69f2c8b8">
-        <img src="https://github.com/user-attachments/assets/ba6f03eb-0efe-4513-8efa-09a8f0f46e28" width="80"/>
+        <img src="https://github.com/user-attachments/assets/ba6f03eb-0efe-4513-8efa-09a8f0f46e28" width="100"/>
       </a>
       <!--IBM Data Science - Tools for Data Science-->
       <a href="https://www.credly.com/earner/earned/badge/0b9c165a-ce01-49bf-860e-25fecace626d">
-        <img src="https://github.com/user-attachments/assets/15d55ecf-f356-42c2-a83f-805c4da6b6b2" width="80"/>
+        <img src="https://github.com/user-attachments/assets/15d55ecf-f356-42c2-a83f-805c4da6b6b2" width="100"/>
       </a>
       <!--IBM Data Science - Orientation-->
       <a href="https://www.credly.com/earner/earned/badge/e04486e9-24f1-477c-9a4c-47665fbe3a59">
-        <img src="https://github.com/user-attachments/assets/d387c84e-ffd1-4f1c-bfde-455d3b4a7e47" width="80"/>
+        <img src="https://github.com/user-attachments/assets/d387c84e-ffd1-4f1c-bfde-455d3b4a7e47" width="100"/>
       </a>
       <!--IBM Data Science - Unlabeled Badge (Auto-generated)-->
       <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1">
-        <img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="80"/>
+        <img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="100"/>
       </a>
     </td>
   </tr>
