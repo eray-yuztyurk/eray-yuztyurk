@@ -44,33 +44,70 @@ A curated selection of work that represents how I build, think, and solve proble
 
 <table>
   <tr>
+    <!-- CHATBOT -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>Python AI Chatbot</strong>
       </a>
-      <br><sub>Multi-model chatbot (HuggingFace + Flask)</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+          <ul align="left">
+            <li>Multi-model local chatbot</li>
+            <li>HuggingFace Transformers + Flask</li>
+            <li>Clean UI + modular backend</li>
+            <li>Model switching, caching, preprocessing</li>
+            <li>Supports CPU/GPU local inference</li>
+          </ul>
+      </details>
     </td>
+    <!-- CHATBOT WEB APP -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-web-app">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>AI Chatbot Web App</strong>
       </a>
-      <br><sub>Full-stack chatbot interface</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li>Full-stack chatbot interface</li>
+          <li>Modular backend structure</li>
+          <li>Clean and simple front-end layout</li>
+          <li>Good base for further extensions</li>
+        </ul>
+      </details>
     </td>
+    <!-- VOICE ASSISTANT -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>Voice Assistant</strong>
       </a>
-      <br><sub>STT + TTS + Flask API</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li>Whisper-based STT + TTS pipeline</li>
+          <li>Flask API for voice commands</li>
+          <li>End-to-end audio interaction</li>
+          <li>Modular audio processing flow</li>
+        </ul>
+      </details>
     </td>
+    <!-- IMAGE CAPTIONING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-image-captioning">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>BLIP Image Captioning</strong>
       </a>
-      <br><sub>Image → text with BLIP</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li>Uses BLIP (Salesforce) image captioning</li>
+          <li>Image → text generation interface</li>
+          <li>Simple upload-and-caption workflow</li>
+          <li>Vision-language Transformer pipeline</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
