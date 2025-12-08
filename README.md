@@ -5,7 +5,7 @@
 <td>
   <img 
     src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf"
-    width="400"
+    width="800"
     style="border-radius: 12px; border: 2px solid #ccc;"
   />
 </td>
