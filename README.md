@@ -1,19 +1,5 @@
 # Hi, I'm Eray Yuztyurk, BSc.
 
-<!--
-<table align="center">
-<tr>
-<td>
-  <img 
-    src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf"
-    width="800"
-    style="border-radius: 12px; border: 2px solid #ccc;"
-  />
-</td>
-</tr>
-</table>
--->
-
 Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
 
 I like working on clean, structured solutions: **Python, SQL, ML models, cloud workflows, intelligent tools, and apps that help people make better decisions.**
@@ -36,6 +22,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
@@ -44,6 +31,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
@@ -52,6 +40,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
@@ -60,6 +49,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
@@ -68,6 +58,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
@@ -76,6 +67,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <img 
       src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e"
       width="100"
+      style="border-radius: 12px; border: 2px solid #ccc;"
     />
   </a>
 
