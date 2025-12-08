@@ -219,7 +219,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <td>
       <!--AWS Certified Cloud Practitioner-->
       <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="80"/>
+        <img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="100"/>
       </a>
       <!--IBM Machine Learning Professional Certificate-->
       <a href="https://www.credly.com/earner/earned/badge/1a20d5e6-2976-4368-be66-98d633d2999c" target="_blank">
@@ -239,27 +239,27 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <td>
       <!--IBM AI Developer - Python Project for AI and Application Development-->
       <a href="https://www.credly.com/earner/earned/badge/97743c08-68d4-4183-906b-ec7d118a8c65">
-        <img src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231" width="80"/>
+        <img src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231" width="100"/>
       </a>
       <!--IBM AI Developer - Introduction to HTML, CSS & JavaScript-->
       <a href="https://www.credly.com/earner/earned/badge/8485ae42-c483-4a8d-a0dd-32efe84b3556">
-        <img src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5" width="80"/>
+        <img src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5" width="100"/>
       </a>
       <!--IBM AI Developer - Generative AI: Prompt Engineering-->
       <a href="https://www.credly.com/earner/earned/badge/f4247444-f317-4885-bb59-51de813055a3">
-        <img src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8" width="80"/>
+        <img src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8" width="100"/>
       </a>
       <!--IBM AI Developer - Generative AI Essentials-->
       <a href="https://www.credly.com/earner/earned/badge/4c692c63-2e07-45b2-8707-7ad06b5b1abf">
-        <img src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b" width="80"/>
+        <img src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b" width="100"/>
       </a>
       <!--IBM AI Developer - Artificial Intelligence Essentials-->
       <a href="https://www.credly.com/earner/earned/badge/235cadd6-06d1-410b-af27-722175ab3279">
-        <img src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6" width="80"/>
+        <img src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6" width="100"/>
       </a>
       <!--IBM AI Developer - Software Engineering Essentials-->
       <a href="https://www.credly.com/earner/earned/badge/5db365e2-564a-432e-b280-cb4681dbf8ff">
-        <img src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e" width="80"/>
+        <img src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e" width="100"/>
       </a>
     </td>
   </tr>
@@ -271,23 +271,23 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
     <td>
       <!--IBM Machine Learning - Deep Learning and Reinforcement Learning-->
       <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97">
-        <img src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d" width="80"/>
+        <img src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d" width="100"/>
       </a>
       <!--IBM Machine Learning - Unsupervised Machine Learning-->
       <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1">
-        <img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="80"/>
+        <img src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309" width="100"/>
       </a>
       <!--IBM Machine Learning - Supervised Learning: Classification-->
       <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21">
-        <img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="80"/>
+        <img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="100"/>
       </a>
       <!--IBM Machine Learning - Supervised Learning: Regression-->
       <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88">
-        <img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="80"/>
+        <img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="100"/>
       </a>
       <!--IBM Machine Learning - Exploratory Data Analysis for Machine Learning-->
       <a href="https://www.credly.com/earner/earned/badge/b2f6b550-203a-4723-89a9-3a4047a6489d">
-        <img src="https://github.com/user-attachments/assets/71bc1aab-1504-44fc-b51d-745c98baea9a" width="80"/>
+        <img src="https://github.com/user-attachments/assets/71bc1aab-1504-44fc-b51d-745c98baea9a" width="100"/>
       </a>
     </td>
   </tr>
@@ -311,7 +311,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
       </a>
       <!--IBM Data Science - Python Project for Data Science-->
       <a href="https://www.credly.com/earner/earned/badge/84a42825-3e85-442a-bd0c-20f68014b8cf">
-        <img src="https://github.com/user-attachments/assets/ad067b69-ac6-43d1-9edd-aaf14b15b6d0" width="80"/>
+        <img src="https://github.com/user-attachments/assets/7d3e419d-1217-4589-8323-70ce70d5b66a" />
       </a>
       <!--IBM Data Science - Python for Data Science & AI-->
       <a href="https://www.credly.com/earner/earned/badge/cb6a9161-488e-4fbc-aebb-9d0327eb7dbc">
