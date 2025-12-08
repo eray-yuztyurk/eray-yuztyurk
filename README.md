@@ -12,7 +12,18 @@
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1"
+      width="350"
+    />
+  </a>
+</p>
+
 ![AWS Certified Cloud Practitioner]([https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93])
+https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" />
+
 ![IBM Data Science Professional Certificate]([https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4])
 ![IBM Machine Learning Professional Certificate]([https://www.credly.com/earner/earned/badge/1a20d5e6-2976-4368-be66-98d633d2999c])
 
