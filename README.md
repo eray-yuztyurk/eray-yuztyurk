@@ -9,11 +9,12 @@ I care about clarity, structure, and writing software that feels purposeful and 
 
 ## 🚀 Tech Stack
 
-**Languages:** Python • SQL  
-**AI/ML:** TensorFlow • Keras • Scikit-Learn • HuggingFace Transformers  
-**Data:** ETL Pipelines • dbt • Data Modeling • Power BI  
-**Backend:** Flask • REST APIs • Docker  
-**Tools:** Git • VS Code • Jupyter  
+**Languages:** Python • SQL • VBA
+**ML & AI:** Scikit-Learn • TensorFlow • Keras • Feature Engineering • Deep Learning • NLP • Whisper/TTS  
+**Data Engineering:** ETL • dbt • SQL Server • Spark • Hadoop • Airflow • Docker  
+**Analytics:** Power BI • Pandas • NumPy • Excel  
+**Tools:** Git • VS Code • Linux CLI  
+**Automation:** n8n
 
 ---
 
