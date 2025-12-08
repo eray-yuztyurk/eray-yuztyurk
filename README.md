@@ -1,4 +1,4 @@
-# Hi, I'm Eray Yuztyurk, BSc.
+# Hi, I'm Eray Yuztyurk
 
 Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
 
