@@ -4,10 +4,7 @@ Data Engineer | Machine Learning & AI Developer
 Hi — I'm Eray. I build data-first solutions that turn messy information into reliable products: ETL and data pipelines, ML models and APIs, and interactive dashboards. I combine practical engineering with applied machine learning to deliver tools that teams can use in production and decision-making.
 
 Contact
-- Email: your-email@example.com
 - LinkedIn: https://linkedin.com/in/eray-yuztyurk
-- Portfolio: https://your-site.example.com
-(Replace the placeholders above with your real links.)
 
 About me — short
 I trained in Business Administration (University of Vienna) with a focus on IT systems and data analysis. Since then I have focused on data engineering tasks, ML model development and deployment, and building analytics apps and dashboards. I enjoy turning data workflows into robust, well-documented pipelines and shipping models that actually solve business problems.
