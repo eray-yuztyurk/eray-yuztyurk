@@ -1,7 +1,7 @@
 # Hi, I'm Eray Yuztyurk, BSc.
 
 <p style="text-align: center;">
-<img width="2102" height="1208" alt="Image 5" src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf" />
+<img width="1051" height="604" alt="Image 5" src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf" />
 </p>
 
 ![AWS Certified Cloud Practitioner]([https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93])
@@ -203,7 +203,7 @@ English (fluent), German (fluent), Turkish (native), Italian (basic)
 I enjoy learning new technologies, exploring how systems work, and building things that feel useful and clean. I'm motivated by structure, problem-solving, and creating solutions that combine data, software, and AI. Always improving, always experimenting — one project at a time.
 
 ---
-
+<!--
 ## 📚 Currently Learning *(fill in manually)*
 
 * ...
@@ -215,6 +215,8 @@ I enjoy learning new technologies, exploring how systems work, and building thin
 * ...
 * ...
 * ...
+
+--->
 
 ## 🔥 Top Projects *(optional manual edits)*
 
