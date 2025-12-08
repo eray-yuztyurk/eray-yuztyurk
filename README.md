@@ -1,5 +1,6 @@
 # Hi, I'm Eray Yuztyurk, BSc.
 
+<!--
 <table align="center">
 <tr>
 <td>
@@ -11,6 +12,7 @@
 </td>
 </tr>
 </table>
+-->
 
 <p align="center">
   
@@ -29,19 +31,11 @@
       width="100"
     />
   </a>
-
-  <!--IBM Machine Learning - Supervised Machine Learning: Regression-->
-  <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88" target="_blank">
-    <img 
-      src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03"
-      width="100"
-    />
-  </a>
   
-  <!--IBM Machine Learning - Supervised Machine Learning: Classification-->
-  <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21" target="_blank">
+  <!--IBM Machine Learning - Deep Learning and Reinforcement Learning-->
+  <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3"
+      src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d"
       width="100"
     />
   </a>
@@ -54,10 +48,114 @@
     />
   </a>
   
+  <!--IBM Machine Learning - Supervised Machine Learning: Classification-->
+  <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3"
+      width="100"
+    />
+  </a>
+  
+  <!--IBM Machine Learning - Supervised Machine Learning: Regression-->
+  <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03"
+      width="100"
+    />
+  </a>
+  
+  <!--IBM Machine Learning - Exploratory Data Analysis for Machine Learning-->
+  <a href="https://www.credly.com/earner/earned/badge/b2f6b550-203a-4723-89a9-3a4047a6489d" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/71bc1aab-1504-44fc-b51d-745c98baea9a"
+      width="100"
+    />
+  </a>
+  
   <!--IBM Data Science Professional Certificate-->
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030"
+      width="100"
+    />
+  </a>
+  
+  <!--IBM Data Science - Machine Learning with Python-->
+  <a href="https://www.credly.com/earner/earned/badge/66ac57e3-8e9c-459f-8251-ddca7d1cfde6" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/855fc0f8-5861-43de-8c5f-74bf08d33c6e"
+      width="100"
+    />
+  </a>
+  
+  <!--IBM Data Science - Data Visualization with Python-->
+  <a href="https://www.credly.com/earner/earned/badge/4da49fde-5b35-4cde-b803-ca88027cace1" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/5546773a-9918-4ad7-b69c-bdf38240f902"
+      width="100"
+    />
+  </a>
+  
+  <!--IBM Data Science - Data Analysis with Python-->
+  <a href="https://www.credly.com/earner/earned/badge/3db863c7-a9bd-4a72-a68d-f0b92db2a746" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/6ed9c681-35ec-4a73-b632-42ac4a3da7e4"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - Databases and SQL for Data Science-->
+  <a href="https://www.credly.com/earner/earned/badge/30fbe87a-5cc4-490f-a128-b1c03bbe3a0e" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/a3a0e2cd-4218-4e79-a48f-3ff03019b14e"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - Python Project for Data Science-->
+  <a href="https://www.credly.com/earner/earned/badge/84a42825-3e85-442a-bd0c-20f68014b8cf" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/ad067b69-ac6d-43d1-9edd-aaf14b15b6d0"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - Python for Data Science and AI-->
+  <a href="https://www.credly.com/earner/earned/badge/cb6a9161-488e-4fbc-aebb-9d0327eb7dbc" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/8befa398-10f0-47e6-af9e-6395dd93a64a"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - -->
+  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - -->
+  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - -->
+  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      width="100"
+    />
+  </a>
+    
+  <!--IBM Data Science - -->
+  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
       width="100"
     />
   </a>
