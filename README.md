@@ -32,7 +32,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
   <!-- ======================= IBM AI DEVELOPER MODULES ======================= -->
 
   <tr>
-    <th align="left">IBM AI Developer – Modules</th>
+    <th align="left">IBM AI Developer</th>
     <td>
       <!--IBM AI Developer - Python Project for AI and Application Development-->
       <a href="https://www.credly.com/earner/earned/badge/97743c08-68d4-4183-906b-ec7d118a8c65">
@@ -64,7 +64,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
   <!-- ======================= IBM MACHINE LEARNING SPECIALIZATIONS ======================= -->
 
   <tr>
-    <th align="left">IBM Machine Learning – Specializations</th>
+    <th align="left">IBM Machine Learning</th>
     <td>
       <!--IBM Machine Learning - Deep Learning and Reinforcement Learning-->
       <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97">
@@ -92,7 +92,7 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
   <!-- ======================= IBM DATA SCIENCE TRACKS ======================= -->
 
   <tr>
-    <th align="left">IBM Data Science – Tracks</th>
+    <th align="left">IBM Data Science</th>
     <td>
       <!--IBM Data Science - Machine Learning with Python-->
       <a href="https://www.credly.com/earner/earned/badge/66ac57e3-8e9c-459f-8251-ddca7d1cfde6">
