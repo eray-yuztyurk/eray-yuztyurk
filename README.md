@@ -13,9 +13,96 @@
 </tr>
 </table>
 -->
+---
+
+Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
+
+I like working on clean, structured solutions: **Python, SQL, ML models, cloud workflows, intelligent tools, and apps that help people make better decisions.**
+
+---
 
 <p align="center">
+    
+  <!--IBM AI Developer Professional Certificate-->
+  <a href="" target="_blank">
+    <img 
+      src=""
+      width="100"
+    />
+  </a>
   
+  <!--IBM AI Developer - Python Project for AI and Application Development-->
+  <a href="https://www.credly.com/earner/earned/badge/97743c08-68d4-4183-906b-ec7d118a8c65" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/8d8b2326-228e-4dea-b853-f3bac0cc9231"
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - Introduction to HTML, CSS, & JavaScript-->
+  <a href="https://www.credly.com/earner/earned/badge/8485ae42-c483-4a8d-a0dd-32efe84b3556" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/02de051e-e1d6-4ad0-8aa8-c9dd191675b5"
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - Generative AI: Prompt Engineering-->
+  <a href="https://www.credly.com/earner/earned/badge/f4247444-f317-4885-bb59-51de813055a3" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/55fc6ee9-726e-4934-881c-ce4080a622d8"
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - Generative AI Essentials-->
+  <a href="https://www.credly.com/earner/earned/badge/4c692c63-2e07-45b2-8707-7ad06b5b1abf" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b"
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - Artificial Intelligence Essentials V2-->
+  <a href="https://www.credly.com/earner/earned/badge/235cadd6-06d1-410b-af27-722175ab3279" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6"
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - Software Engineering Essentials-->
+  <a href="https://www.credly.com/earner/earned/badge/5db365e2-564a-432e-b280-cb4681dbf8ff" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e"
+      width="100"
+    />
+  </a>
+  <!--
+  <!--IBM AI Developer - -->
+  <a href="" target="_blank">
+    <img 
+      src=""
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - -->
+  <a href="" target="_blank">
+    <img 
+      src=""
+      width="100"
+    />
+  </a>
+
+  <!--IBM AI Developer - -->
+  <a href="" target="_blank">
+    <img 
+      src=""
+      width="100"
+    />
+  </a>
+  -->
   <!--AWS Certified Cloud Practitioner-->
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
     <img 
@@ -128,26 +215,26 @@
     />
   </a>
     
-  <!--IBM Data Science - -->
-  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+  <!--IBM Data Science - Data Science Methodology-->
+  <a href="https://www.credly.com/earner/earned/badge/57dba98c-b4a1-4510-a86d-ac8a69f2c8b8" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      src="https://github.com/user-attachments/assets/ba6f03eb-0efe-4513-8efa-09a8f0f46e28"
       width="100"
     />
   </a>
     
-  <!--IBM Data Science - -->
-  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+  <!--IBM Data Science - Tools for Data Science-->
+  <a href="https://www.credly.com/earner/earned/badge/0b9c165a-ce01-49bf-860e-25fecace626d" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      src="https://github.com/user-attachments/assets/15d55ecf-f356-42c2-a83f-805c4da6b6b2"
       width="100"
     />
   </a>
     
-  <!--IBM Data Science - -->
-  <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1" target="_blank">
+  <!--IBM Data Science - Data Science Orientation-->
+  <a href="https://www.credly.com/earner/earned/badge/e04486e9-24f1-477c-9a4c-47665fbe3a59" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/67bec9bb-92a4-4bfc-a930-38e15e57b309"
+      src="https://github.com/user-attachments/assets/d387c84e-ffd1-4f1c-bfde-455d3b4a7e47"
       width="100"
     />
   </a>
@@ -160,12 +247,6 @@
     />
   </a>
 </p>
-
----
-
-Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
-
-I like working on clean, structured solutions: **Python, SQL, ML models, cloud workflows, intelligent tools, and apps that help people make better decisions.**
 
 ---
 
