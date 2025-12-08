@@ -122,7 +122,7 @@ Motivated by structure, clarity, and simplifying complex ideas — always improv
   <tr>
     <th align="left">IBM Machine Learning</th>
     <td>
-      <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/aac49572-af85-468d-9ee7-5f6ea571e24d" width="90"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/584f667e-4995-4429-a639-19e9e74cdb97"><img src="https://github.com/user-attachments/assets/46da6dc1-2783-4233-98ed-26567cbdc2ce" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/51b0815a-4af3-4891-b7dd-4a9b03ac01c1"><img src="https://github.com/user-attachments/assets/67bec9bb-92a-4bfc-a930-38e15e57b309" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/544aa9f3-0acb-4e7d-9d71-393028bc4b21"><img src="https://github.com/user-attachments/assets/45ae4921-e118-424a-8b09-7f3089b30ce3" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/92de1b75-af05-4af6-9c5e-495ed1925d88"><img src="https://github.com/user-attachments/assets/e7079aff-83c3-49be-bcab-aaa5c1732a03" width="90"/></a>
