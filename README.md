@@ -1,4 +1,14 @@
-# Hi, I'm Eray
+# Hi, I'm Eray Yuztyurk, BSc.
+
+<p style="text-align: center;">
+<img width="2102" height="1208" alt="Image 5" src="https://github.com/user-attachments/assets/8b08427e-0e62-43eb-9771-b6879c0472cf" />
+</p>
+
+![AWS Certified Cloud Practitioner]([https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93])
+![IBM Data Science Professional Certificate]([https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4])
+![IBM Machine Learning Professional Certificate]([https://www.credly.com/earner/earned/badge/1a20d5e6-2976-4368-be66-98d633d2999c])
+
+---
 
 Curious by nature and genuinely motivated by learning, I enjoy building things that blend **data engineering**, **machine learning**, and **practical AI applications**. My background spans data workflows, analytics, automation, and end-to-end ML projects — from ETL pipelines to Flask apps and recommender systems.
 
@@ -7,6 +17,12 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
 ---
 
 ## 🚀 What I Do
+
+<!-- 📌 OPTIONAL: Add GIF or short demo here (recommended) -->
+
+<!-- Example:
+![Chatbot Demo](https://github.com/.../demo.gif)
+-->
 
 * Develop **AI-powered applications** with Python, Flask, and HuggingFace
 * Build **SQL/ETL pipelines** and data transformation layers
@@ -19,63 +35,111 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
 
 ## 🧩 Selected Projects (Showcase)
 
+<!-- 📌 OPTIONAL: Add a "Top 3 Projects" highlight section -->
+
+<!-- Example:
+### 🔥 Top Projects
+- **Python AI Chatbot** – HuggingFace + Flask | Multi-model | Local inference
+- **CocktailMe Recommender** – ML + rules-based hybrid system
+- **Bank Performance Dashboard** – Clean data model + Power BI visuals
+-->
+
 These projects best reflect how I think, build, and learn.
 
 ### **AI & Machine Learning**
 
+<!-- 📌 OPTIONAL: Add GIFs for Chatbot, Voice Assistant, Image Captioning -->
+
+<!-- Example:
+![Chatbot UI](your-demo-link.gif)
+-->
+
 * **Python AI Chatbot (HuggingFace + Flask)** – Multi-model local chatbot
-  [https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface](https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface)
+  [https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface](https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **AI Chatbot Web App**
   [https://github.com/eray-yuztyurk/python-ai-chatbot-web-app](https://github.com/eray-yuztyurk/python-ai-chatbot-web-app)
+  <p style="text-align: center;">
+  </p>
 * **Voice Assistant (AI + STT/TTS + Flask)**
   [https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot](https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot)
+  <p style="text-align: center;">
+  </p>
 * **Image Captioning with BLIP**
-  [https://github.com/eray-yuztyurk/python-ai-image-captioning](https://github.com/eray-yuztyurk/python-ai-image-captioning)
+  [https://github.com/eray-yuztyurk/python-ai-image-captioning](https://github.com/eray-yuztyurk/python-ai-image-captioning) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **Movie Recommenders (Collaborative & Content-based)**
-  [https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender](https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender)
-  [https://github.com/eray-yuztyurk/content-based-movie-recommender](https://github.com/eray-yuztyurk/content-based-movie-recommender)
+  [https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender](https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender) — ⭐1
+  [https://github.com/eray-yuztyurk/content-based-movie-recommender](https://github.com/eray-yuztyurk/content-based-movie-recommender) — ⭐1
+  <p style="text-align: center;">
+  </p>
 
 ### **Data Science & ML Competitions**
 
 * **Kaggle Titanic Competition** – Full workflow
-  [https://github.com/eray-yuztyurk/kaggle-titanic-competition](https://github.com/eray-yuztyurk/kaggle-titanic-competition)
+  [https://github.com/eray-yuztyurk/kaggle-titanic-competition](https://github.com/eray-yuztyurk/kaggle-titanic-competition) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **Diabetes Prediction ML**
-  [https://github.com/eray-yuztyurk/diabetes-prediction-ml](https://github.com/eray-yuztyurk/diabetes-prediction-ml)
+  [https://github.com/eray-yuztyurk/diabetes-prediction-ml](https://github.com/eray-yuztyurk/diabetes-prediction-ml) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **House Price Prediction**
-  [https://github.com/eray-yuztyurk/house-price-prediction-competition](https://github.com/eray-yuztyurk/house-price-prediction-competition)
+  [https://github.com/eray-yuztyurk/house-price-prediction-competition](https://github.com/eray-yuztyurk/house-price-prediction-competition) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **IBM SpaceX Launch Analysis**
-  [https://github.com/eray-yuztyurk/ibm-spacex-project](https://github.com/eray-yuztyurk/ibm-spacex-project)
+  [https://github.com/eray-yuztyurk/ibm-spacex-project](https://github.com/eray-yuztyurk/ibm-spacex-project) — ⭐1
+  <p style="text-align: center;">
+  </p>
 
 ### **Recommender Systems**
 
 * **CocktailMe – Personalized Cocktail Recommender**
-  [https://github.com/eray-yuztyurk/cocktailme-app](https://github.com/eray-yuztyurk/cocktailme-app)
-  [https://github.com/eray-yuztyurk/CocktailMe](https://github.com/eray-yuztyurk/CocktailMe)
+  [https://github.com/eray-yuztyurk/cocktailme-app](https://github.com/eray-yuztyurk/cocktailme-app) — ⭐2
+  <p style="text-align: center;">
+  </p>
 * **ARL Product Recommender**
-  [https://github.com/eray-yuztyurk/arl-product-recommender](https://github.com/eray-yuztyurk/arl-product-recommender)
+  [https://github.com/eray-yuztyurk/arl-product-recommender](https://github.com/eray-yuztyurk/arl-product-recommender) — ⭐1
+  <p style="text-align: center;">
+  </p>
 
 ### **Web Apps & Backend**
 
 * **Python Flask Transaction Tracker – CRUD**
-  [https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project](https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project)
+  [https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project](https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project) — ⭐1
+  <p style="text-align: center;">
+  </p>
 * **Flask Examples & Experiments**
-  [https://github.com/eray-yuztyurk/python-flask-examples](https://github.com/eray-yuztyurk/python-flask-examples)
+  [https://github.com/eray-yuztyurk/python-flask-examples](https://github.com/eray-yuztyurk/python-flask-examples) — ⭐1
+  <p style="text-align: center;">
+  </p>
 
 ### **Dashboards & Analytics**
 
 * **Power BI – Bank Financial Performance Dashboard**
-  [https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard](https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard)
+  [https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard](https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard) — ⭐2
+  <p style="text-align: center;">
+  </p>
 
 ### **Frontend & Portfolio**
 
 * **Static Portfolio Website**
-  [https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project](https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project)
-* **Meainow Website (HTML/CSS)**
-  [https://github.com/eray-yuztyurk/meainow-website](https://github.com/eray-yuztyurk/meainow-website)
+  [https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project](https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project) — ⭐1
+  <p style="text-align: center;">
+  </p>
 
 ---
 
 ## 🎓 Education & Certifications
+
+<!-- 📌 OPTIONAL: Add certification badges -->
+
+<!-- Example:
+![AWS CCP](https://img.shields.io/badge/AWS%20CCP-Certified-FF9900?logo=amazonaws&logoColor=white)
+-->
 
 * **AWS Certified Cloud Practitioner (2025)**
 * **IBM Machine Learning Professional Certificate (2024)**
@@ -88,6 +152,41 @@ These projects best reflect how I think, build, and learn.
 ---
 
 ## 🛠️ Skills
+
+### **Backend & Engineering**
+
+Python • SQL • Flask • Docker • API Design • ETL Pipelines • dbt
+
+### **Machine Learning & AI**
+
+TensorFlow • Keras • Scikit-Learn • HuggingFace Transformers • Model Evaluation • Feature Engineering
+
+### **Data & Analytics**
+
+Power BI • Data Modeling • Statistical Analysis • EDA • Dashboard Design
+
+### **Tools**
+
+Git • VS Code • Jupyter • Cloud Workflows
+
+### **Languages**
+
+English (fluent), German (fluent), Turkish (native), Italian (basic)
+
+---
+
+<!-- 📌 OPTIONAL: Add "Currently Working On" & "Learning" sections -->
+
+<!-- Example:
+### 📚 Currently Learning
+- RAG workflows
+- Advanced ML pipelines
+- Model deployment with AWS
+
+### 🔨 Currently Building
+- A refined AI chatbot v2
+- A data engineering project (ETL + dbt)
+-->
 
 **Programming:** Python, SQL
 **ML/AI:** TensorFlow, Keras, Scikit-Learn, HuggingFace Transformers
@@ -105,8 +204,34 @@ I enjoy learning new technologies, exploring how systems work, and building thin
 
 ---
 
+## 📚 Currently Learning *(fill in manually)*
+
+* ...
+* ...
+* ...
+
+## 🔨 Currently Building *(fill in manually)*
+
+* ...
+* ...
+* ...
+
+## 🔥 Top Projects *(optional manual edits)*
+
+* **Python AI Chatbot** – HuggingFace + Flask | Multi-model | Local inference
+* **CocktailMe Recommender** – Hybrid ML system
+* **Bank Performance Dashboard** – Power BI + data model
+
+---
+
 ## 📫 Get in Touch
 
+<!-- 📌 OPTIONAL: Add social badges -->
+
+<!-- Example:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-link)
+-->
+
 * GitHub: **@eray-yuztyurk**
-* LinkedIn: **https://www.linkedin.com/in/erayyuztyurk/**
-* Email: **eray_yuztyurk@outlook.com**
+* LinkedIn: *(add link)*
+* Email: *(optional)*
