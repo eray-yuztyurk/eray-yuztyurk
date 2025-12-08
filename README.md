@@ -356,5 +356,5 @@ I enjoy learning new technologies, exploring how systems work, and building thin
 -->
 
 * GitHub: **@eray-yuztyurk**
-* LinkedIn: *(add link)*
-* Email: *(optional)*
+* LinkedIn: **https://www.linkedin.com/erayyuztyurk/**
+* Kaggle: **https://www.kaggle.com/erayyuztyurk**
