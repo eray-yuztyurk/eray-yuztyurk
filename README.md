@@ -38,62 +38,128 @@ I care about clarity, structure, and writing software that feels purposeful and 
 ## 🔥 Featured Projects  
 A curated selection of work that represents how I build, think, and solve problems.
 
-### **AI & Machine Learning**
-**Python AI Chatbot (HuggingFace + Flask)**  
-Local multi-model chatbot with a clean UI and efficient inference pipeline  
-🔗 https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface  
+---
 
-**AI Chatbot Web App**  
-Full-stack chatbot interface with modular backend design  
-🔗 https://github.com/eray-yuztyurk/python-ai-chatbot-web-app  
+## 🧠 AI & Machine Learning
 
-**Voice Assistant (AI + STT/TTS + Flask)**  
-Speech recognition & TTS pipeline with Flask API  
-🔗 https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot  
-
-**BLIP Image Captioning App**  
-Image-to-text interface powered by BLIP Transformers  
-🔗 https://github.com/eray-yuztyurk/python-ai-image-captioning  
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Python AI Chatbot</strong>
+      </a>
+      <br><sub>Multi-model chatbot (HuggingFace + Flask)</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-web-app">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>AI Chatbot Web App</strong>
+      </a>
+      <br><sub>Full-stack chatbot interface</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Voice Assistant</strong>
+      </a>
+      <br><sub>STT + TTS + Flask API</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-ai-image-captioning">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>BLIP Image Captioning</strong>
+      </a>
+      <br><sub>Image → text with BLIP</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **Recommender Systems**
-**CocktailMe – Personalized Recommender**  
-A hybrid rule-based + ML system for tailored drink suggestions  
-🔗 https://github.com/eray-yuztyurk/cocktailme-app  
+## 🍹 Recommender Systems
 
-**Movie Recommenders (Collaborative + Content-based)**  
-Side-by-side implementations with evaluation and comparisons  
-🔗 https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender  
-🔗 https://github.com/eray-yuztyurk/content-based-movie-recommender  
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/cocktailme-app">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>CocktailMe</strong>
+      </a>
+      <br><sub>Hybrid rule-based + ML recommender</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Movie Recommender</strong>
+      </a>
+      <br><sub>Collaborative filtering</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/content-based-movie-recommender">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Content-based Recommender</strong>
+      </a>
+      <br><sub>TF-IDF + cosine similarity</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Data Science / ML Competitions
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/kaggle-titanic-competition">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Kaggle Titanic</strong>
+      </a>
+      <br><sub>Feature engineering + CV</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/diabetes-prediction-ml">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Diabetes Prediction ML</strong>
+      </a>
+      <br><sub>EDA → preprocessing → ML pipeline</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/house-price-prediction-competition">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>House Price Prediction</strong>
+      </a>
+      <br><sub>Stacking + tuning</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### **Data Science / ML Competitions**
-**Kaggle Titanic – Full Workflow**  
-Feature engineering, model comparison, cross-validation  
-🔗 https://github.com/eray-yuztyurk/kaggle-titanic-competition  
+## 📈 Dashboards & Web Apps
 
-**Diabetes Prediction ML**  
-EDA → preprocessing → model training pipeline  
-🔗 https://github.com/eray-yuztyurk/diabetes-prediction-ml  
-
-**House Price Prediction (Regression)**  
-Model stacking + hyperparameter tuning  
-🔗 https://github.com/eray-yuztyurk/house-price-prediction-competition  
-
----
-
-### **Dashboards & Web Apps**
-**Bank Financial Performance Dashboard (Power BI)**  
-Clean data model + KPI-driven visuals  
-🔗 https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard  
-
-**Transaction Tracker (Flask CRUD)**  
-Minimal, clean CRUD application demonstrating backend fundamentals  
-🔗 https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project  
+<table>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Financial Dashboard (Power BI)</strong>
+      </a>
+      <br><sub>KPI-driven bank analytics</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project">
+        <img src="" width="100%" style="border-radius:10px;"><br>
+        <strong>Transaction Tracker</strong>
+      </a>
+      <br><sub>Flask CRUD app</sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## ✨ About Me
 
