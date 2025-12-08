@@ -355,6 +355,5 @@ I enjoy learning new technologies, exploring how systems work, and building thin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-link)
 -->
 
-* GitHub: **@eray-yuztyurk**
 * LinkedIn: **https://www.linkedin.com/erayyuztyurk/**
 * Kaggle: **https://www.kaggle.com/erayyuztyurk**
