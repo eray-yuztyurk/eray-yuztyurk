@@ -1,8 +1,8 @@
-# Hi, I'm Eray Yuztyurk 👋
+# Hi, I'm Eray Yuztyurk 👋  
 🧠 Data & AI • 🛠️ Engineering • 📊 Analytics • 🚀 Building useful, clean systems
 
-I’m someone who learns fast, thinks in systems, and enjoys turning ideas into clean, functional products.
-My work usually sits where data, engineering, and AI meet — whether that’s building ML pipelines, designing recommender systems, or creating intuitive AI-powered applications.
+I’m someone who learns fast, thinks in systems, and enjoys turning ideas into clean, functional products.  
+My work sits where **data**, **engineering**, and **AI** meet — whether it’s building ML pipelines, designing recommender systems, or creating intuitive AI-powered applications.  
 I care about clarity, structure, and writing software that feels purposeful and maintainable.
 
 ---
@@ -18,7 +18,7 @@ I care about clarity, structure, and writing software that feels purposeful and 
 ---
 
 ## 🎓 Core Certifications  
-(Selected — full archive below)
+*(Selected — full archive available below)*
 
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
@@ -34,54 +34,77 @@ I care about clarity, structure, and writing software that feels purposeful and 
 
 ---
 
-## 🔥 Featured Projects
-
-These projects best represent how I think, build, and solve problems.
+## 🔥 Featured Projects  
+A curated selection of work that represents how I build, think, and solve problems.
 
 ### **AI & Machine Learning**
-- **Python AI Chatbot (HuggingFace + Flask)** — Local multi-model chatbot  
-  https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface  
-- **AI Chatbot Web App** — Clean UI + inference backend  
-  https://github.com/eray-yuztyurk/python-ai-chatbot-web-app  
-- **Voice Assistant (AI + STT/TTS + Flask)**  
-  https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot  
-- **BLIP Image Captioning App**  
-  https://github.com/eray-yuztyurk/python-ai-image-captioning  
+**Python AI Chatbot (HuggingFace + Flask)**  
+Local multi-model chatbot with a clean UI and efficient inference pipeline  
+🔗 https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface  
+
+**AI Chatbot Web App**  
+Full-stack chatbot interface with modular backend design  
+🔗 https://github.com/eray-yuztyurk/python-ai-chatbot-web-app  
+
+**Voice Assistant (AI + STT/TTS + Flask)**  
+Speech recognition & TTS pipeline with Flask API  
+🔗 https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot  
+
+**BLIP Image Captioning App**  
+Image-to-text interface powered by BLIP Transformers  
+🔗 https://github.com/eray-yuztyurk/python-ai-image-captioning  
+
+---
 
 ### **Recommender Systems**
-- **CocktailMe – Personalized Recommender**  
-  https://github.com/eray-yuztyurk/cocktailme-app  
-- **Movie Recommenders (Collaborative + Content-based)**  
-  https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender  
-  https://github.com/eray-yuztyurk/content-based-movie-recommender  
+**CocktailMe – Personalized Recommender**  
+A hybrid rule-based + ML system for tailored drink suggestions  
+🔗 https://github.com/eray-yuztyurk/cocktailme-app  
+
+**Movie Recommenders (Collaborative + Content-based)**  
+Side-by-side implementations with evaluation and comparisons  
+🔗 https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender  
+🔗 https://github.com/eray-yuztyurk/content-based-movie-recommender  
+
+---
 
 ### **Data Science / ML Competitions**
-- **Kaggle Titanic – Full Workflow**  
-  https://github.com/eray-yuztyurk/kaggle-titanic-competition  
-- **Diabetes Prediction ML**  
-  https://github.com/eray-yuztyurk/diabetes-prediction-ml  
-- **House Price Prediction**  
-  https://github.com/eray-yuztyurk/house-price-prediction-competition  
+**Kaggle Titanic – Full Workflow**  
+Feature engineering, model comparison, cross-validation  
+🔗 https://github.com/eray-yuztyurk/kaggle-titanic-competition  
+
+**Diabetes Prediction ML**  
+EDA → preprocessing → model training pipeline  
+🔗 https://github.com/eray-yuztyurk/diabetes-prediction-ml  
+
+**House Price Prediction (Regression)**  
+Model stacking + hyperparameter tuning  
+🔗 https://github.com/eray-yuztyurk/house-price-prediction-competition  
+
+---
 
 ### **Dashboards & Web Apps**
-- **Bank Financial Performance Dashboard (Power BI)**  
-  https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard  
-- **Transaction Tracker (Flask CRUD)**  
-  https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project  
+**Bank Financial Performance Dashboard (Power BI)**  
+Clean data model + KPI-driven visuals  
+🔗 https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard  
+
+**Transaction Tracker (Flask CRUD)**  
+Minimal, clean CRUD application demonstrating backend fundamentals  
+🔗 https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project  
 
 ---
 
 ## ✨ About Me
 
-I like exploring new technologies, understanding how things work, improving them, and building systems that stay reliable as they grow.
-I’m drawn to projects where I can combine data, ML, and software engineering to create something practical and clean.
-Outside of the technical side, I enjoy exploring new ideas, refining my tools, and continuously improving both my workflow and the things I build.
+I like understanding how things work, improving them, and building systems that stay reliable as they grow.  
+I’m drawn to projects where I can combine **data**, **ML**, and **software engineering** to create something practical and clean.  
+Outside the technical side, I enjoy refining my workflow, exploring new ideas, and continuously improving the things I build.
 
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/erayyuztyurk/  
-- Kaggle: https://www.kaggle.com/erayyuztyurk  
+- LinkedIn: **https://www.linkedin.com/in/erayyuztyurk/**  
+- Kaggle: **https://www.kaggle.com/erayyuztyurk**  
 
 ---
 
