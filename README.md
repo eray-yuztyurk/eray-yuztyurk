@@ -223,11 +223,11 @@ I like working on clean, structured solutions: **Python, SQL, ML models, cloud w
       </a>
       <!--IBM Machine Learning Professional Certificate-->
       <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad" width="80"/>
+        <img src="https://github.com/user-attachments/assets/0b57ba48-a7c8-4678-bdb2-7aa669ac13ad" width="100"/>
       </a>
       <!--IBM Data Science Professional Certificate-->
       <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
-        <img src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030" width="80"/>
+        <img src="https://github.com/user-attachments/assets/33c7b907-91ff-4baf-b3f1-af9526302030" width="100"/>
       </a>
     </td>
   </tr>
