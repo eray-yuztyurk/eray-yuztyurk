@@ -24,52 +24,52 @@ These projects best reflect how I think, build, and learn.
 ### **AI & Machine Learning**
 
 * **Python AI Chatbot (HuggingFace + Flask)** – Multi-model local chatbot
-  [https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface](https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface) — ⭐1
+  [https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface](https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface)
 * **AI Chatbot Web App**
   [https://github.com/eray-yuztyurk/python-ai-chatbot-web-app](https://github.com/eray-yuztyurk/python-ai-chatbot-web-app)
 * **Voice Assistant (AI + STT/TTS + Flask)**
   [https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot](https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot)
 * **Image Captioning with BLIP**
-  [https://github.com/eray-yuztyurk/python-ai-image-captioning](https://github.com/eray-yuztyurk/python-ai-image-captioning) — ⭐1
+  [https://github.com/eray-yuztyurk/python-ai-image-captioning](https://github.com/eray-yuztyurk/python-ai-image-captioning)
 * **Movie Recommenders (Collaborative & Content-based)**
-  [https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender](https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender) — ⭐1
-  [https://github.com/eray-yuztyurk/content-based-movie-recommender](https://github.com/eray-yuztyurk/content-based-movie-recommender) — ⭐1
+  [https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender](https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender)
+  [https://github.com/eray-yuztyurk/content-based-movie-recommender](https://github.com/eray-yuztyurk/content-based-movie-recommender)
 
 ### **Data Science & ML Competitions**
 
 * **Kaggle Titanic Competition** – Full workflow
-  [https://github.com/eray-yuztyurk/kaggle-titanic-competition](https://github.com/eray-yuztyurk/kaggle-titanic-competition) — ⭐1
+  [https://github.com/eray-yuztyurk/kaggle-titanic-competition](https://github.com/eray-yuztyurk/kaggle-titanic-competition)
 * **Diabetes Prediction ML**
-  [https://github.com/eray-yuztyurk/diabetes-prediction-ml](https://github.com/eray-yuztyurk/diabetes-prediction-ml) — ⭐1
+  [https://github.com/eray-yuztyurk/diabetes-prediction-ml](https://github.com/eray-yuztyurk/diabetes-prediction-ml)
 * **House Price Prediction**
-  [https://github.com/eray-yuztyurk/house-price-prediction-competition](https://github.com/eray-yuztyurk/house-price-prediction-competition) — ⭐1
+  [https://github.com/eray-yuztyurk/house-price-prediction-competition](https://github.com/eray-yuztyurk/house-price-prediction-competition)
 * **IBM SpaceX Launch Analysis**
-  [https://github.com/eray-yuztyurk/ibm-spacex-project](https://github.com/eray-yuztyurk/ibm-spacex-project) — ⭐1
+  [https://github.com/eray-yuztyurk/ibm-spacex-project](https://github.com/eray-yuztyurk/ibm-spacex-project)
 
 ### **Recommender Systems**
 
 * **CocktailMe – Personalized Cocktail Recommender**
-  [https://github.com/eray-yuztyurk/cocktailme-app](https://github.com/eray-yuztyurk/cocktailme-app) — ⭐2
-  [https://github.com/eray-yuztyurk/CocktailMe](https://github.com/eray-yuztyurk/CocktailMe) — ⭐1
+  [https://github.com/eray-yuztyurk/cocktailme-app](https://github.com/eray-yuztyurk/cocktailme-app)
+  [https://github.com/eray-yuztyurk/CocktailMe](https://github.com/eray-yuztyurk/CocktailMe)
 * **ARL Product Recommender**
-  [https://github.com/eray-yuztyurk/arl-product-recommender](https://github.com/eray-yuztyurk/arl-product-recommender) — ⭐1
+  [https://github.com/eray-yuztyurk/arl-product-recommender](https://github.com/eray-yuztyurk/arl-product-recommender)
 
 ### **Web Apps & Backend**
 
 * **Python Flask Transaction Tracker – CRUD**
-  [https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project](https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project) — ⭐1
+  [https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project](https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project)
 * **Flask Examples & Experiments**
-  [https://github.com/eray-yuztyurk/python-flask-examples](https://github.com/eray-yuztyurk/python-flask-examples) — ⭐1
+  [https://github.com/eray-yuztyurk/python-flask-examples](https://github.com/eray-yuztyurk/python-flask-examples)
 
 ### **Dashboards & Analytics**
 
 * **Power BI – Bank Financial Performance Dashboard**
-  [https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard](https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard) — ⭐2
+  [https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard](https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard)
 
 ### **Frontend & Portfolio**
 
 * **Static Portfolio Website**
-  [https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project](https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project) — ⭐1
+  [https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project](https://github.com/eray-yuztyurk/frontend-static-portfolio-website-project)
 * **Meainow Website (HTML/CSS)**
   [https://github.com/eray-yuztyurk/meainow-website](https://github.com/eray-yuztyurk/meainow-website)
 
