@@ -52,13 +52,13 @@ A curated selection of work that represents how I build, think, and solve proble
       </a>
       <details>
         <summary><sub>Show details</sub></summary>
-          <ul align="left">
-            <li>Multi-model local chatbot</li>
-            <li>HuggingFace Transformers + Flask</li>
-            <li>Clean UI + modular backend</li>
-            <li>Model switching, caching, preprocessing</li>
-            <li>Supports CPU/GPU local inference</li>
-          </ul>
+        <ul align="left">
+          <li><sub>Multi-model local chatbot</sub></li>
+          <li><sub>HuggingFace Transformers + Flask</sub></li>
+          <li><sub>Clean UI + modular backend</sub></li>
+          <li><sub>Model switching, caching, preprocessing</sub></li>
+          <li><sub>Supports CPU/GPU local inference</sub></li>
+        </ul>
       </details>
     </td>
     <!-- CHATBOT WEB APP -->
@@ -70,10 +70,10 @@ A curated selection of work that represents how I build, think, and solve proble
       <details>
         <summary><sub>Show details</sub></summary>
         <ul align="left">
-          <li>Full-stack chatbot interface</li>
-          <li>Modular backend structure</li>
-          <li>Clean and simple front-end layout</li>
-          <li>Good base for further extensions</li>
+          <li><sub>Full-stack chatbot interface</sub></li>
+          <li><sub>Modular backend structure</sub></li>
+          <li><sub>Clean and simple front-end layout</sub></li>
+          <li><sub>Good base for further extensions</sub></li>
         </ul>
       </details>
     </td>
@@ -86,10 +86,10 @@ A curated selection of work that represents how I build, think, and solve proble
       <details>
         <summary><sub>Show details</sub></summary>
         <ul align="left">
-          <li>Whisper-based STT + TTS pipeline</li>
-          <li>Flask API for voice commands</li>
-          <li>End-to-end audio interaction</li>
-          <li>Modular audio processing flow</li>
+          <li><sub>Whisper-based STT + TTS pipeline</sub></li>
+          <li><sub>Flask API for voice commands</sub></li>
+          <li><sub>End-to-end audio interaction</sub></li>
+          <li><sub>Modular audio processing flow</sub></li>
         </ul>
       </details>
     </td>
@@ -102,10 +102,10 @@ A curated selection of work that represents how I build, think, and solve proble
       <details>
         <summary><sub>Show details</sub></summary>
         <ul align="left">
-          <li>Uses BLIP (Salesforce) image captioning</li>
-          <li>Image → text generation interface</li>
-          <li>Simple upload-and-caption workflow</li>
-          <li>Vision-language Transformer pipeline</li>
+          <li><sub>BLIP (Salesforce) image captioning</sub></li>
+          <li><sub>Image → text generation interface</sub></li>
+          <li><sub>Simple upload-and-caption workflow</sub></li>
+          <li><sub>Vision-language Transformer pipeline</sub></li>
         </ul>
       </details>
     </td>
@@ -114,30 +114,57 @@ A curated selection of work that represents how I build, think, and solve proble
 
 ---
 
-## 🍹 Recommender Systems
+## 🔮 Recommender Systems
 
 <table>
   <tr>
+    <!-- COCKTAILME -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/cocktailme-app">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>CocktailMe</strong>
+        <strong>CocktailMe – Recommender</strong>
       </a>
-      <br><sub>Hybrid rule-based + ML recommender</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>Hybrid rule-based + ML system</sub></li>
+          <li><sub>Personalized drink recommendations</sub></li>
+          <li><sub>Feature engineering pipeline</sub></li>
+          <li><sub>Clear UI and structured workflow</sub></li>
+        </ul>
+      </details>
     </td>
+    <!-- COLLABORATIVE FILTERING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Movie Recommender</strong>
+        <strong>Movie Recommender – Collaborative</strong>
       </a>
-      <br><sub>Collaborative filtering</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>User–item matrix factorization</sub></li>
+          <li><sub>Similarity-based recommendations</sub></li>
+          <li><sub>Evaluation + ranking pipeline</sub></li>
+          <li><sub>Clean notebook workflow</sub></li>
+        </ul>
+      </details>
     </td>
+    <!-- CONTENT-BASED RECOMMENDER -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/content-based-movie-recommender">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Content-based Recommender</strong>
+        <strong>Movie Recommender – Content-based</strong>
       </a>
-      <br><sub>TF-IDF + cosine similarity</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>TF-IDF / cosine similarity engine</sub></li>
+          <li><sub>Metadata-driven movie ranking</sub></li>
+          <li><sub>Fast, lightweight implementation</sub></li>
+          <li><sub>Modular design for testing</sub></li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
@@ -148,26 +175,53 @@ A curated selection of work that represents how I build, think, and solve proble
 
 <table>
   <tr>
+    <!-- TITANIC -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/kaggle-titanic-competition">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Kaggle Titanic</strong>
+        <strong>Titanic – Full ML Workflow</strong>
       </a>
-      <br><sub>Feature engineering + CV</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>EDA + feature engineering</sub></li>
+          <li><sub>Model comparison & selection</sub></li>
+          <li><sub>Cross-validation pipeline</sub></li>
+          <li><sub>Clean and reproducible workflow</sub></li>
+        </ul>
+      </details>
     </td>
+    <!-- DIABETES -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/diabetes-prediction-ml">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>Diabetes Prediction ML</strong>
       </a>
-      <br><sub>EDA → preprocessing → ML pipeline</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>Binary classification pipeline</sub></li>
+          <li><sub>Preprocessing & scaling workflow</sub></li>
+          <li><sub>Model comparison and metrics</sub></li>
+          <li><sub>Clear and structured notebook</sub></li>
+        </ul>
+      </details>
     </td>
+    <!-- HOUSE PRICES -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/house-price-prediction-competition">
         <img src="" width="100%" style="border-radius:10px;"><br>
         <strong>House Price Prediction</strong>
       </a>
-      <br><sub>Stacking + tuning</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>Regression with engineered features</sub></li>
+          <li><sub>Stacking + hyperparameter tuning</sub></li>
+          <li><sub>Systematic model evaluation</sub></li>
+          <li><sub>End-to-end ML solution</sub></li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
@@ -178,22 +232,41 @@ A curated selection of work that represents how I build, think, and solve proble
 
 <table>
   <tr>
+    <!-- POWER BI DASHBOARD -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Financial Dashboard (Power BI)</strong>
+        <strong>Bank Performance Dashboard</strong>
       </a>
-      <br><sub>KPI-driven bank analytics</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>KPI-driven financial insights</sub></li>
+          <li><sub>Star-schema data model</sub></li>
+          <li><sub>DAX measures + clean visuals</sub></li>
+          <li><sub>Professional reporting layout</sub></li>
+        </ul>
+      </details>
     </td>
+    <!-- FLASK CRUD APP -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-flask-transaction-tracker-project">
         <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Transaction Tracker</strong>
+        <strong>Transaction Tracker (CRUD)</strong>
       </a>
-      <br><sub>Flask CRUD app</sub>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>Flask-based CRUD application</sub></li>
+          <li><sub>SQLite + clean data model</sub></li>
+          <li><sub>Minimal & functional UI</sub></li>
+          <li><sub>Backend fundamentals showcase</sub></li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
+
 
 ---
 
