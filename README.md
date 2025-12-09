@@ -9,7 +9,7 @@ I care about clarity, structure, and writing software that feels purposeful and 
 <!-- TECH STACK -->
 ## 🚀 Tech Stack
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;" align:"center">
   <tr>
     <!-- LANGUAGES -->
     <td align="center" width="160" valign="top" style="border: none;">
@@ -190,7 +190,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- COCKTAILME -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/cocktailme-app">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/eray-yuztyurk/cocktailme-app/blob/main/img/measurements.jpg?raw=true" width="100%" style="border-radius:10px;"><br>
         <strong>CocktailMe – Recommender</strong>
       </a>
       <details>
@@ -206,7 +206,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- COLLABORATIVE FILTERING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://private-user-images.githubusercontent.com/77536463/524238001-372e5ce2-741b-437b-92a1-fd40658c4a1b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNzgyMTgsIm5iZiI6MTc2NTI3NzkxOCwicGF0aCI6Ii83NzUzNjQ2My81MjQyMzgwMDEtMzcyZTVjZTItNzQxYi00MzdiLTkyYTEtZmQ0MDY1OGM0YTFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDEwNTgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjNDJjZTMxMzJiZTQwNjc0NjQ0ZmJmNTVkYTVjNDAyYWJkNDhlNmFlZGY4OWI4ZmUyMzZiNTI2ZDhkZWUxNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xbCCIYUXUjdYWm1gufkQTBw73v5DsRrmTvA83Wkpr-k" width="100%" style="border-radius:10px;"><br>
         <strong>Movie Recommender – Collaborative</strong>
       </a>
       <details>
@@ -222,7 +222,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- CONTENT-BASED RECOMMENDER -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/content-based-movie-recommender">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://private-user-images.githubusercontent.com/77536463/524234120-5d9d843e-1f31-4fbd-a069-e1949876e1f7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNzc5MDAsIm5iZiI6MTc2NTI3NzYwMCwicGF0aCI6Ii83NzUzNjQ2My81MjQyMzQxMjAtNWQ5ZDg0M2UtMWYzMS00ZmJkLWEwNjktZTE5NDk4NzZlMWY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDEwNTMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1YmMyNGRiNjg3YzU1ZmNlMjMwNTNiNDE0MjIwOWFlYzQyMTIyMDRjMzdlOTA0ZjIyMDAwNmJmOGM4YmNiOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6RNKsvVwVu303SzxzI_c4NOOFv0Qcqj0ks5yGXi_AYg" width="100%" style="border-radius:10px;"><br>
         <strong>Movie Recommender – Content-based</strong>
       </a>
       <details>
