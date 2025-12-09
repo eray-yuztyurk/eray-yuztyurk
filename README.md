@@ -116,7 +116,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- CHATBOT -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface">
-        <img src="https://private-user-images.githubusercontent.com/77536463/523228761-53660b16-d583-4c5d-88c4-01febcd37a9b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyMzkyOTcsIm5iZiI6MTc2NTIzODk5NywicGF0aCI6Ii83NzUzNjQ2My81MjMyMjg3NjEtNTM2NjBiMTYtZDU4My00YzVkLTg4YzQtMDFmZWJjZDM3YTliLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDAwMDk1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjOTg4NmM4NjRlNjg2Mzk3NzA3NmRlMjJjMTQzY2Q1Mjk5MWQzODU4MTNmMzA5NzI2OTUyNmNlZGYxZGMyMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Welu0eYa-nQJsyO-Ps1pR4fetNlafM9_BkHwp9WCRCs" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/2ff7a0c7-56ab-4724-92e2-1803463bf305" width="100%" style="border-radius:10px;"><br>
         <strong>Python AI Chatbot</strong>
       </a>
       <details>
