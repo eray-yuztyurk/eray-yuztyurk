@@ -96,7 +96,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- IMAGE CAPTIONING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-image-captioning">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://private-user-images.githubusercontent.com/77536463/522728962-f5897b32-4aca-439b-a9b8-cb371ff371e8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyMzk1NjUsIm5iZiI6MTc2NTIzOTI2NSwicGF0aCI6Ii83NzUzNjQ2My81MjI3Mjg5NjItZjU4OTdiMzItNGFjYS00MzliLWE5YjgtY2IzNzFmZjM3MWU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDAwMTQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjZmMwMjQwNWIyZjQ5ZTk1ZDIzZWRlMTI5ZTEzOGQzZmI2Y2Y0OTU2YWVmYTdhYjE4ODVmMjdjNTdjMDA0N2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0OrJqAfKOk2iN-Cc8kXUhMkcmYZeW7loWaZtBD3qVhI" width="100%" style="border-radius:10px;"><br>
         <strong>BLIP Image Captioning</strong>
       </a>
       <details>
@@ -235,7 +235,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- POWER BI DASHBOARD -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard/raw/main/Germany%20Bank%20Credits/img/Bank%20Loans%20Project%20-%20Germany.png" width="100%" style="border-radius:10px;"><br>
         <strong>Bank Performance Dashboard</strong>
       </a>
       <details>
