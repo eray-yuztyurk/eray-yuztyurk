@@ -6,20 +6,89 @@ My work sits where **data**, **engineering**, and **AI** meet — whether it’s
 I care about clarity, structure, and writing software that feels purposeful and maintainable.
 
 ---
-
+<!-- TECH STACK -->
 ## 🚀 Tech Stack
 
-**Languages:** Python • SQL • VBA
-**ML & AI:** Scikit-Learn • TensorFlow • Keras • Feature Engineering • Deep Learning • NLP • Whisper/TTS  
-**Data Engineering:** ETL • dbt • SQL Server • Spark • Hadoop • Airflow • Docker  
-**Analytics:** Power BI • Pandas • NumPy • Excel  
-**Tools:** Git • VS Code • Linux CLI  
-**Automation:** n8n
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" width="160" valign="top" style="border: none;">
+      <br><strong>Languages</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white" style="height:100%; border-radius:10px;">
+      </div>
+    </td>
+    <!-- ML & AI -->
+    <td align="center" width="160" height="300" valign="top" style="border: none;">
+      <br><strong>ML & AI</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Deep%20Learning-000000?logo=knowledgebase&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/NLP-8A2BE2?logo=apache-spark&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Whisper%20%2F%20TTS-00A3E0?logo=sound&logoColor=white" style="height:100%; border-radius:10px;">
+        </div>
+      </div>
+    </td>
+    <!-- DATA ENGINEERING -->
+    <td align="center" width="160" height="300" valign="top" style="border: none;">
+      <br><strong>Data Engineering</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/ETL-02569B?logo=terminal&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/dbt-FE5E00?logo=dbt&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apache&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height:100%; border-radius:10px;">
+        </div>
+      </div>
+    </td>
+    <!-- ANALYTICS -->
+    <td align="center" width="160" height="300" valign="top" style="border: none;">
+      <br><strong>Analytics</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" style="height:100%; border-radius:10px;">
+        </div>
+      </div>
+    </td>
+    <!-- TOOLS -->
+    <td align="center" width="160" height="300" valign="top" style="border: none;">
+      <br><strong>Tools</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" style="height:100%; border-radius:10px;">
+          <img src="https://img.shields.io/badge/Linux%20CLI-FCC624?logo=linux&logoColor=black" style="height:100%; border-radius:10px;">
+        </div>
+      </div>
+    </td>
+    <!-- AUTOMATION -->
+    <td align="center" width="160" height="300" valign="top" style="border: none;">
+      <br><strong>Automation</strong>
+      <div align="center"><br>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <img src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white" style="height:100%; border-radius:10px;">
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
 
+<!-- CORE CERTIFICATIONS -->
 ## 🎓 Core Certifications  
-*(Selected — full archive available below)*
+<sub>(Selected — full archive below)</sub>
 
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93" target="_blank">
