@@ -247,7 +247,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- TITANIC -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/kaggle-titanic-competition">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/8c6a0c9d-0078-44d6-922b-f2e4da649f60" width="100%" style="border-radius:10px;"><br>
         <strong>Titanic – Full ML Workflow</strong>
       </a>
       <details>
