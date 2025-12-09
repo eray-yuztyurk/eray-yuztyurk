@@ -111,7 +111,7 @@ A curated selection of work that represents how I build, think, and solve proble
 
 ## 🧠 AI & Machine Learning
 
-<table>
+<table align="center">
   <tr>
     <!-- CHATBOT -->
     <td align="center" width="250">
@@ -185,7 +185,7 @@ A curated selection of work that represents how I build, think, and solve proble
 
 ## 🔮 Recommender Systems
 
-<table>
+<table align="center">
   <tr>
     <!-- COCKTAILME -->
     <td align="center" width="250">
@@ -242,7 +242,7 @@ A curated selection of work that represents how I build, think, and solve proble
 
 ## 📊 Data Science / ML Competitions
 
-<table>
+<table align="center">
   <tr>
     <!-- TITANIC -->
     <td align="center" width="250">
@@ -279,7 +279,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- HOUSE PRICES -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/house-price-prediction-competition">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/71d34a6f-6d8e-460d-8d62-d6dd8637c76b" width="100%" style="border-radius:10px;"><br>
         <strong>House Price Prediction</strong>
       </a>
       <details>
@@ -299,7 +299,7 @@ A curated selection of work that represents how I build, think, and solve proble
 
 ## 📈 Dashboards & Web Apps
 
-<table>
+<table align="center">
   <tr>
     <!-- POWER BI DASHBOARD -->
     <td align="center" width="250">
