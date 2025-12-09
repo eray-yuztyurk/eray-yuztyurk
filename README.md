@@ -165,7 +165,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- IMAGE CAPTIONING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-image-captioning">
-        <img src="https://private-user-images.githubusercontent.com/77536463/522728962-f5897b32-4aca-439b-a9b8-cb371ff371e8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyMzk1NjUsIm5iZiI6MTc2NTIzOTI2NSwicGF0aCI6Ii83NzUzNjQ2My81MjI3Mjg5NjItZjU4OTdiMzItNGFjYS00MzliLWE5YjgtY2IzNzFmZjM3MWU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDAwMTQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjZmMwMjQwNWIyZjQ5ZTk1ZDIzZWRlMTI5ZTEzOGQzZmI2Y2Y0OTU2YWVmYTdhYjE4ODVmMjdjNTdjMDA0N2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0OrJqAfKOk2iN-Cc8kXUhMkcmYZeW7loWaZtBD3qVhI" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/28c3e89c-06a9-4b3b-b718-84c64eb32ea3" width="100%" style="border-radius:10px;"><br>
         <strong>BLIP Image Captioning</strong>
       </a>
       <details>
@@ -206,7 +206,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- COLLABORATIVE FILTERING -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/collaborative-filtering-movie-recommender">
-        <img src="https://private-user-images.githubusercontent.com/77536463/524238001-372e5ce2-741b-437b-92a1-fd40658c4a1b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNzgyMTgsIm5iZiI6MTc2NTI3NzkxOCwicGF0aCI6Ii83NzUzNjQ2My81MjQyMzgwMDEtMzcyZTVjZTItNzQxYi00MzdiLTkyYTEtZmQ0MDY1OGM0YTFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDEwNTgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjNDJjZTMxMzJiZTQwNjc0NjQ0ZmJmNTVkYTVjNDAyYWJkNDhlNmFlZGY4OWI4ZmUyMzZiNTI2ZDhkZWUxNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xbCCIYUXUjdYWm1gufkQTBw73v5DsRrmTvA83Wkpr-k" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/5c8df99f-9a33-4c0e-a0d8-4a87f3af3640" width="100%" style="border-radius:10px;"><br>
         <strong>Movie Recommender – Collaborative</strong>
       </a>
       <details>
@@ -222,7 +222,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- CONTENT-BASED RECOMMENDER -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/content-based-movie-recommender">
-        <img src="https://private-user-images.githubusercontent.com/77536463/524234120-5d9d843e-1f31-4fbd-a069-e1949876e1f7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNzc5MDAsIm5iZiI6MTc2NTI3NzYwMCwicGF0aCI6Ii83NzUzNjQ2My81MjQyMzQxMjAtNWQ5ZDg0M2UtMWYzMS00ZmJkLWEwNjktZTE5NDk4NzZlMWY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDEwNTMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1YmMyNGRiNjg3YzU1ZmNlMjMwNTNiNDE0MjIwOWFlYzQyMTIyMDRjMzdlOTA0ZjIyMDAwNmJmOGM4YmNiOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6RNKsvVwVu303SzxzI_c4NOOFv0Qcqj0ks5yGXi_AYg" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/f30327e1-16e3-46fd-a4d5-c5ad13900dd8" width="100%" style="border-radius:10px;"><br>
         <strong>Movie Recommender – Content-based</strong>
       </a>
       <details>
@@ -263,7 +263,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- DIABETES -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/diabetes-prediction-ml">
-        <img src="" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/60b43562-9e5a-4a29-bef5-b1620e610b1d" width="100%" style="border-radius:10px;"><br>
         <strong>Diabetes Prediction ML</strong>
       </a>
       <details>
