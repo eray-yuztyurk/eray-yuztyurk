@@ -190,7 +190,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- COCKTAILME -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/cocktailme-app">
-        <img src="https://github.com/eray-yuztyurk/cocktailme-app/blob/main/img/measurements.jpg?raw=true" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/82649e75-d708-4998-9ea9-03221d6ce68a" width="100%" style="border-radius:10px;"><br>
         <strong>CocktailMe – Recommender</strong>
       </a>
       <details>
@@ -244,10 +244,27 @@ A curated selection of work that represents how I build, think, and solve proble
 
 <table align="center">
   <tr>
+    <!-- SPACEX -->
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/ibm-spacex-project">
+        <img src="https://github.com/user-attachments/assets/bd408d92-0a37-4476-af07-ab7f9322018b" width="100%" style="border-radius:10px;"><br>
+        <strong>SpaceX Launch Analysis</strong>
+      </a>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>End-to-end data pipeline: API retrieval, targeted web scraping, structured data wrangling</sub></li>
+          <li><sub>Exploratory data analysis with visualizations, correlations and geospatial folium maps</sub></li>
+          <li><sub>Feature engineering and SQL-based dataset validation (SQLite + pandas integration)</sub></li>
+          <li><sub>Machine learning workflow for predicting launch outcomes with evaluation metrics</sub></li>
+          <li><sub>Interactive dashboard built with Dash for exploring launch sites and performance trends</sub></li>
+        </ul>
+      </details>
+    </td>
     <!-- TITANIC -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/kaggle-titanic-competition">
-        <img src="https://github.com/user-attachments/assets/8c6a0c9d-0078-44d6-922b-f2e4da649f60" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/6fdb2032-a021-4e31-8d6e-71dc5e815a19" width="100%" style="border-radius:10px;"><br>
         <strong>Titanic – Full ML Workflow</strong>
       </a>
       <details>
@@ -304,7 +321,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <!-- POWER BI DASHBOARD -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard">
-        <img src="https://github.com/eray-yuztyurk/power-bi-bank-performance-report-dashboard/raw/main/Germany%20Bank%20Credits/img/Bank%20Loans%20Project%20-%20Germany.png" width="100%" style="border-radius:10px;"><br>
+        <img src="https://github.com/user-attachments/assets/e7e1cce6-ece1-44a4-a3fe-e7a0fbaec907" width="100%" style="border-radius:10px;"><br>
         <strong>Bank Performance Dashboard</strong>
       </a>
       <details>
