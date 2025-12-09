@@ -2,7 +2,7 @@
 🧠 Data & AI • 🛠️ Engineering • 📊 Analytics • 🚀 Building useful, clean systems
 
 I’m someone who learns fast, thinks in systems, and enjoys turning ideas into clean, functional products.  
-My work sits where **data**, **engineering**, and **AI** meet — whether it’s building ML pipelines, designing recommender systems, or creating intuitive AI-powered applications.  
+My work sits where **data**, **engineering**, and **AI** meet — whether it’s building Data / ML pipelines, designing recommender systems, or creating intuitive AI-powered applications.  
 I care about clarity, structure, and writing software that feels purposeful and maintainable.
 
 ---
