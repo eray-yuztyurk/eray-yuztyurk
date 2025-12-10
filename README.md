@@ -100,6 +100,9 @@ I care about clarity, structure, and writing software that feels purposeful and 
   <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4" target="_blank">
     <img src="https://github.com/user-attachments/assets/bf6cb5af-30d7-4546-94fb-cb4fa66b158e" width="95"/>
   </a>
+  <a href="https://certificate.miuul.com/eray_yuztyurk" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2af4e8b8-33f4-4e06-9c11-618dff79adbc" width="168"/>
+  </a>
 </p>
 
 ---
@@ -216,6 +219,24 @@ A curated selection of work that represents how I build, think, and solve proble
           <li><sub>Similarity-based recommendations</sub></li>
           <li><sub>Evaluation + ranking pipeline</sub></li>
           <li><sub>Clean notebook workflow</sub></li>
+        </ul>
+      </details>
+    </td>
+    ARL-Enhanced Recommender System
+    <!-- ARL-ENHANCED RECOMMENDER -->
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/arl-product-recommender">
+        <img src="https://github.com/user-attachments/assets/a4aed3fa-cdfd-4b99-8ab2-1d132a89a83c" width="100%" style="border-radius:10px;"><br>
+        <strong>ARL-Enhanced Recommender System</strong>
+      </a>
+      <details>
+        <summary><sub>Show details</sub></summary>
+        <ul align="left">
+          <li><sub>Explores product recommendations with baseline models</sub></li>
+          <li><sub>Implements an ARL-inspired policy to improve ranking quality</sub></li>
+          <li><sub>Includes EDA, preprocessing and interaction analysis</sub></li>
+          <li><sub>Evaluates performance with Precision@K, Recall@K, NDCG and MAP</sub></li>
+          <li><sub>Fully documented end-to-end workflow in one notebook</sub></li>
         </ul>
       </details>
     </td>
