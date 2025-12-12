@@ -169,7 +169,7 @@ A curated selection of work that represents how I build, think, and solve proble
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-audio-transcriber-summarizer">
         <img src="https://github.com/user-attachments/assets/30c19b12-cd9e-4ff2-a32e-92e1f1252506" width="100%" style="border-radius:10px;"><br>
-        <strong>Python AI Chatbot</strong>
+        <strong>Audio Transcriber & Summarizer</strong>
       </a>
       <details>
         <summary><sub>Show details</sub></summary>
