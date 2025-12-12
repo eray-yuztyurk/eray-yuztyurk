@@ -116,23 +116,6 @@ A curated selection of work that represents how I build, think, and solve proble
 
 <table align="center">
   <tr>
-    <!-- CHATBOT -->
-    <td align="center" width="250">
-      <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-huggingface">
-        <img src="https://github.com/user-attachments/assets/2ff7a0c7-56ab-4724-92e2-1803463bf305" width="100%" style="border-radius:10px;"><br>
-        <strong>Python AI Chatbot</strong>
-      </a>
-      <details>
-        <summary><sub>Show details</sub></summary>
-        <ul align="left">
-          <li><sub>Multi-model local chatbot</sub></li>
-          <li><sub>HuggingFace Transformers + Flask</sub></li>
-          <li><sub>Clean UI + modular backend</sub></li>
-          <li><sub>Model switching, caching, preprocessing</sub></li>
-          <li><sub>Supports CPU/GPU local inference</sub></li>
-        </ul>
-      </details>
-    </td>
     <!-- CHATBOT WEB APP -->
     <td align="center" width="250">
       <a href="https://github.com/eray-yuztyurk/python-ai-chatbot-web-app">
@@ -149,19 +132,20 @@ A curated selection of work that represents how I build, think, and solve proble
         </ul>
       </details>
     </td>
-    <!-- VOICE ASSISTANT -->
+    <!-- TEXT TO SPEECH ASSISTANT -->
     <td align="center" width="250">
-      <a href="https://github.com/eray-yuztyurk/python-ai-voice-assistant-chatbot">
-        <img src="" width="100%" style="border-radius:10px;"><br>
-        <strong>Voice Assistant</strong>
+      <a href="https://github.com/eray-yuztyurk/python-ai-text-to-speech">
+        <img src="https://github.com/user-attachments/assets/8fbc8571-c75b-4ce4-b684-d45191564e5f" width="100%" style="border-radius:10px;"><br>
+        <strong>Text to Speech App</strong>
       </a>
       <details>
         <summary><sub>Show details</sub></summary>
         <ul align="left">
-          <li><sub>Whisper-based STT + TTS pipeline</sub></li>
-          <li><sub>Flask API for voice commands</sub></li>
-          <li><sub>End-to-end audio interaction</sub></li>
-          <li><sub>Modular audio processing flow</sub></li>
+          <li><sub>Multi-language neural text-to-speech (25+ languages)</sub></li>
+          <li><sub>Transformer-based TTS models (Hugging Face, MMS-TTS)</sub></li>
+          <li><sub>Interactive Gradio web interface</sub></li>
+          <li><sub>Generates high-quality .wav audio files</sub></li>
+          <li><sub>Modular & easily extendable model / language config</sub></li>
         </ul>
       </details>
     </td>
@@ -179,6 +163,23 @@ A curated selection of work that represents how I build, think, and solve proble
           <li><sub>Simple upload-and-caption workflow</sub></li>
           <li><sub>Vision-language Transformer pipeline</sub></li>
         </ul>
+      </details>
+    </td>
+    <!-- AUDIO TRANSCRIBER & SUMMARIZER -->
+    <td align="center" width="250">
+      <a href="https://github.com/eray-yuztyurk/python-ai-audio-transcriber-summarizer">
+        <img src="https://github.com/user-attachments/assets/30c19b12-cd9e-4ff2-a32e-92e1f1252506" width="100%" style="border-radius:10px;"><br>
+        <strong>Python AI Chatbot</strong>
+      </a>
+      <details>
+        <summary><sub>Show details</sub></summary>
+          <ul align="left">
+            <li><sub>AI-powered audio transcription to text</sub></li>
+            <li><sub>Automatic text summarization pipeline</sub></li>
+            <li><sub>Multi-language speech-to-text support</sub></li>
+            <li><sub>Configurable AI models & language settings</sub></li>
+            <li><sub>Clear CLI-based workflow for transcription & summarization</sub></li>
+          </ul>
       </details>
     </td>
   </tr>
