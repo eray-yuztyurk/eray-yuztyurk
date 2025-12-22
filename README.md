@@ -423,6 +423,8 @@ Outside the technical side, I enjoy refining my workflow, exploring new ideas, a
       <a href="https://www.credly.com/earner/earned/badge/4c692c63-2e07-45b2-8707-7ad06b5b1abf"><img src="https://github.com/user-attachments/assets/521cabf2-b424-47c9-acdc-5e4ffe3ffc6b" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/235cadd6-06d1-410b-af27-722175ab3279"><img src="https://github.com/user-attachments/assets/438b8f6d-c99b-4ee7-bbdd-b7f5c93ba6f6" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/5db365e2-564a-432e-b280-cb4681dbf8ff"><img src="https://github.com/user-attachments/assets/c2701b18-5aca-4dbc-bb78-230a3802448e" width="90"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/3343a30b-fc6a-40b2-b5f9-ac2cbadbe5d2"><img src="https://github.com/user-attachments/assets/8b196c5d-7150-46e9-b9fa-df527f62e0cd" width="90"/></a>
+      <a href="https://www.credly.com/earner/earned/badge/e41fc606-2cde-4417-8617-45a01b280aa9"><img src="https://github.com/user-attachments/assets/7ba63b37-44da-4277-91da-d4cb639785d6" width="90"/></a>
     </td>
   </tr>
 
