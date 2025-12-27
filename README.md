@@ -409,6 +409,7 @@ Outside the technical side, I enjoy refining my workflow, exploring new ideas, a
   <tr>
     <th align="left">Professional Certifications</th>
     <td>
+      <a href="https://www.credly.com/earner/earned/badge/eb78146d-96d2-4635-8836-bfb51750278c"><img src="https://github.com/user-attachments/assets/58f1beb0-976c-4e0c-91bd-6cb2ae591c74" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/285d986e-3be6-4191-bfd6-b467bc644a93"><img src="https://github.com/user-attachments/assets/6dc272d3-5b30-40e0-a7c3-6b73e53a74a1" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/1a20d5e6-2976-4368-be66-98d633d2999c"><img src="https://github.com/user-attachments/assets/74d9a6db-ab1a-43b4-98b7-3540f94375e2" width="90"/></a>
       <a href="https://www.credly.com/earner/earned/badge/c5728272-1b4d-4e31-aa41-634b398906c4"><img src="https://github.com/user-attachments/assets/bf6cb5af-30d7-4546-94fb-cb4fa66b158e" width="90"/></a>
